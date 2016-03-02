@@ -1,0 +1,1019 @@
+"comm_id","comm_name","comm_age","sso","migration","exec_spsr","acct_geo","plat_tier","gold_tier","silv_tier","#_lang","#_features","enabled","case_count"
+"a0C00000000DgKR","HP The Next Bench",7.98,1,0,1,"NA",1,0,0,6,6,1,147
+"a0C00000002oNxA","Spotify Ltd LSW",2.14,0,0,1,"EMEA",1,0,0,1,0,1,208
+"a0C0000000242LU","Sony Electronics",3.45,0,0,1,"NA",0,1,0,2,8,1,263
+"a0C00000000Dguo","HP Consumer Support Forums - English",7.92,1,0,1,"NA",1,0,0,1,6,1,1133
+"a0C00000000ESr2","HP Consumer Support Forums - German",6.36,0,0,1,"NA",1,0,0,2,2,1,311
+"a0C00000000Dfyz","National Instruments",8.01,1,0,1,"NA",0,1,0,8,7,1,525
+"a0C00000001LOU2","British Sky Broadcasting - Movies (Now TV)",4.24,1,0,1,"EMEA",1,0,0,1,8,1,173
+"a0C00000003N7mV","Capital One",1.12,0,1,1,"NA",0,1,0,1,3,1,19
+"a0C00000002Vzza","Telstra LSW",2.86,0,0,1,"APAC",1,0,0,1,0,1,186
+"a0C00000002mJh2","HSN",2.44,1,0,1,"NA",0,1,0,1,3,1,77
+"a0C00000001OOGl","Leroy Merlin France",4.14,1,0,1,"EMEA",1,0,0,1,10,1,146
+"a0C00000002mzrd","Brocade Communications Systems Community",2.35,0,0,1,"NA",1,0,0,1,9,1,180
+"a0C00000001C5zH","Spotify",4.41,1,0,1,"EMEA",1,0,0,1,7,1,326
+"a0C000000014Z8U","Helsana",4.52,0,0,1,"EMEA",0,1,0,3,5,1,282
+"a0C00000003Mt4v","HP EMEA Business Now",1.36,1,0,1,"NA",1,0,0,4,2,1,112
+"a0C00000002vlQH","Telstra Insight",1.82,0,0,1,"APAC",1,0,0,1,11,1,19
+"a0C00000003NdRa","Decathlon UK",0.65,0,1,1,"EMEA",0,1,0,1,4,1,6
+"a0C00000003NBnB","HP Consumer Social Care LSW",1.09,0,0,1,"NA",1,0,0,1,0,1,18
+"a0C00000000Dg4n","Palm",8,0,0,1,"NA",0,0,0,1,1,0,88
+"a0C00000002yW0Y","T-Mobile Slovakia/Slovak Telekom",1.6,1,0,1,"EMEA",0,1,0,1,2,0,33
+"a0C00000002yap1","Achmea LSW",1.59,0,0,1,"EMEA",1,0,0,1,0,1,40
+"a0C00000000Dfyp","Future Shop - English",8.01,0,0,1,"NA",0,1,0,1,4,1,449
+"a0C00000003NZhu","MultiChoice LSW",0.82,0,0,1,"EMEA",1,0,0,1,0,1,15
+"a0C00000002yap6","Achmea",1.59,0,0,1,"EMEA",1,0,0,1,7,1,100
+"a0C00000002VYj5","Best Buy LSW",2.87,0,0,1,"NA",0,1,0,1,0,1,58
+"a0C00000000Tc50","Home Depot",5.55,0,0,1,"NA",1,0,0,1,5,0,192
+"a0C00000000EDuD","HP Consumer Support Forums - Portuguese",6.65,0,0,1,"NA",1,0,0,2,2,1,320
+"a0C00000000DfyG","Dell",8.01,0,0,1,"NA",0,0,0,1,1,0,4
+"a0C00000000DfyG","Dell",8.01,0,0,1,"NA",0,0,0,1,1,1,4
+"a0C00000002nsDg","Telstra Peer Support (a.k.a. Future of Work)",2.23,1,0,1,"APAC",1,0,0,1,6,1,48
+"a0C00000001w8a7","USAA",3.65,1,0,1,"NA",0,1,0,1,4,1,194
+"a0C00000002q5Mk","Lithium LSW Internal",1.97,0,0,1,"NA",1,0,0,1,1,1,24
+"a0C00000003NWF6","StubHub LSW",0.92,0,0,1,"NA",0,1,0,1,0,1,12
+"a0C00000000DffE","Big Pond",8.03,0,0,1,"APAC",1,0,0,1,0,0,5
+"a0C00000002pnlO","HSN LSW",2,0,0,1,"NA",0,1,0,1,0,1,18
+"a0C00000000EDUz","AT&T ABS Networking Exchange",6.67,0,0,1,"NA",0,0,0,1,1,0,53
+"a0C00000002mxg7","Lithium ecohaus (Lithium Demo Instance)",2.36,1,0,1,"NA",1,0,0,29,13,1,11
+"a0C00000000EGgf","Best Buy Canada - French",6.56,0,0,1,"NA",0,1,0,2,5,1,79
+"a0C00000000E4pr","Betfair TVG Community",6.94,0,0,1,"NA",0,0,0,1,2,0,232
+"a0C00000000DgqN","Starz",7.93,1,0,1,"NA",0,0,0,1,3,0,89
+"a0C00000000EDuI","HP Consumer Support Forums - Korean",6.65,0,0,1,"NA",1,0,0,2,1,1,262
+"a0C00000002yGeT","Telstra NC Business & Enterprise Dev Community",1.61,0,0,1,"APAC",1,0,0,1,4,1,10
+"a0C00000000Dfyq","Future Shop - French",8.01,0,0,1,"NA",0,1,0,1,4,1,83
+"a0C00000000DgCS","AT&T U-Verse",8,0,0,1,"NA",0,0,0,1,0,0,26
+"a0C00000002yW0T","T-Mobile Hungary / Magyar Telekom",1.6,0,0,1,"EMEA",0,1,0,1,3,0,32
+"a0C00000002umNb","Canon LSW",1.92,0,0,1,"NA",0,1,0,1,0,1,21
+"a0C00000002v64K","SCEA LSW Trial",1.9,0,0,1,"NA",0,1,0,1,0,1,4
+"a0C00000000EAnu","AT&T- DSL Customers",6.74,0,0,1,"NA",0,0,0,1,0,0,10
+"a0C00000000EVWo","Best Buy - RocketFish",6.34,0,0,1,"NA",0,1,0,1,6,1,33
+"a0C00000000Dfyk","Dell Brazil",8.01,0,0,1,"NA",0,0,0,1,1,0,1
+"a0C00000000DjJ6","AT&T Business Direct",7.65,0,0,1,"NA",0,0,0,1,0,0,4
+"a0C000000023AUr","Canon USA",3.47,0,0,1,"NA",0,1,0,1,3,1,58
+"a0C00000000GZeJ","We Are Teachers",5.68,1,0,1,"NA",0,0,0,1,5,0,77
+"a0C00000000Eve0","3M Ideas",6.19,0,0,1,"NA",0,0,0,1,1,0,14
+"a0C00000000jO0d","InVision",4.9,1,0,1,"EMEA",0,0,0,5,6,0,101
+"a0C00000002oMgz","TaylorMade",2.15,0,0,1,"NA",0,1,0,1,4,1,1
+"a0C00000003NVkp","Infoblox Inc.",0.95,0,1,1,"NA",0,1,0,1,2,1,31
+"a0C00000000V0Nk","Home Depot Garden Club",5.21,1,0,1,"NA",1,0,0,2,6,0,35
+"a0C00000000V63M","Avanex",5.18,0,0,1,"EMEA",0,1,0,3,1,1,42
+"a0C00000000GG1z","3M - IATD",5.79,0,0,1,"NA",0,0,0,1,3,0,10
+"a0C00000000V3up","24 Hour Fitness",5.2,0,0,1,"NA",0,0,0,1,5,0,178
+"a0C00000003Nfoh","Comcast Corporation",0.57,1,1,1,"NA",1,0,0,1,5,1,4
+"a0C00000003NgoI","Vox Telecom LSW",0.53,0,0,1,"EMEA",0,0,0,1,0,1,2
+"a0C00000003MuzU","Standard Life",1.34,0,0,1,"EMEA",0,0,1,1,4,1,8
+"a0C00000002mxgC","Lithium ecohaus LSW (Lithium Demo Instance)",2.36,1,0,1,"NA",1,0,0,29,3,1,1
+"a0C00000003NVkk","Infoblox LSW",0.95,0,0,1,"NA",0,1,0,1,0,1,1
+"a0C00000000Dfyb","Dell Korea",8.01,0,0,1,"NA",0,0,0,1,1,0,0
+"a0C00000000i0bt","ArfGuild (placeholder)",4.95,0,0,1,"NA",1,0,0,1,3,1,0
+"a0C00000002oiep","Best Buy Canada LSW",2.1,0,0,1,"NA",0,1,0,1,0,0,0
+"a0C00000002nCvP","Brocade LSW",2.32,0,0,1,"NA",1,0,0,1,0,1,0
+"a0C61000003AEYf","Orange Polska",0.1,0,0,1,"EMEA",0,0,0,2,6,1,0
+"a0C00000000TYPO","British Sky Broadcasting Group - Support",5.56,1,0,1,"EMEA",1,0,0,2,6,1,577
+"a0C00000000Djmc","Best Buy",7.58,0,0,1,"NA",0,1,0,1,6,1,313
+"a0C000000025RD2","Oppenheimer - Advisor Community",3.41,1,0,1,"NA",0,1,0,1,5,0,53
+"a0C00000000EyM2","Sephora",6.16,1,0,1,"NA",1,0,0,1,4,1,260
+"a0C00000002TJS8","Comcast Corporation LSW",2.93,0,0,1,"NA",1,0,0,1,0,1,378
+"a0C00000000UgRj","Vodafone Australia",5.3,0,0,1,"APAC",1,0,0,2,3,1,204
+"a0C00000000DhSH","Lithium Community",7.87,0,0,1,"NA",1,0,0,1,3,1,814
+"a0C00000002EHbK","Sephora - Lithium Social Web",3.19,0,0,1,"NA",1,0,0,1,1,0,65
+"a0C00000002vycj","Optus LSW",1.81,0,0,1,"APAC",1,0,0,1,0,1,111
+"a0C00000000rxzj","Telstra Consumer (aka CrowdSupport)",4.75,0,0,1,"APAC",1,0,0,2,10,1,287
+"a0C00000000DgKH","BlackBerry Support Community Forums",7.98,0,0,1,"NA",1,0,0,2,4,1,707
+"a0C00000000DgGF","Univision Foros",7.99,1,0,1,"NA",1,0,0,2,1,1,384
+"a0C00000002oLO7","Orange Espana",2.15,0,0,1,"EMEA",0,1,0,1,3,1,60
+"a0C00000002eLcA","Melbourne IT Community",2.65,1,0,1,"APAC",0,1,0,1,4,0,19
+"a0C00000002yMJM","Mammut Sports Group AG",1.61,0,0,1,"EMEA",0,0,1,3,5,1,19
+"a0C00000002xPZC","Avon Products, Inc.",1.68,1,0,1,"NA",1,0,0,1,6,1,170
+"a0C00000002BMQM","British Sky Broadcasting Group - LSW Social Web",3.26,1,0,1,"EMEA",1,0,0,1,0,1,323
+"a0C00000000Dyce","Best Buy Canada - English",7.12,0,0,1,"NA",0,1,0,1,4,1,323
+"a0C000000012S45","O2 UK Support",4.58,1,0,1,"EMEA",1,0,0,1,4,1,193
+"a0C00000000Dg6K","Comcast Support",8,1,0,1,"NA",1,0,0,1,4,1,407
+"a0C00000002fz9I","K2 Community",2.61,0,0,1,"NA",0,1,0,1,4,1,94
+"a0C00000000Dhow","Verizon Residential",7.82,0,0,1,"NA",0,1,0,1,3,1,400
+"a0C00000002oMjF","America Movil - Embratel Brasil LSW",2.15,0,0,1,"LATAM",0,1,0,1,0,1,20
+"a0C000000011A96","Bombardier BRP Dealer Community",4.62,1,0,1,"NA",0,1,0,1,7,1,159
+"a0C610000037XKl","Gartner Inc LSW",0.22,0,0,1,"NA",1,0,0,1,0,1,2
+"a0C00000001KT01","Optus",4.28,0,0,1,"APAC",1,0,0,1,6,1,271
+"a0C00000003NCbk","Telefonica Espana LSW",1.07,0,0,1,"EMEA",0,1,0,1,0,1,19
+"a0C00000001CBJp","Gartner Inc",4.41,1,0,1,"NA",1,0,0,1,8,1,285
+"a0C00000000GGD0","Telefonica O2 Germany",5.79,1,0,1,"EMEA",0,1,0,2,3,0,317
+"a0C00000001zcI1","StarHub",3.56,1,0,1,"APAC",1,0,0,1,11,1,322
+"a0C00000003NW6P","QVC Community",0.93,1,0,1,"NA",1,0,0,1,6,1,26
+"a0C00000002FjRO","British Sky Broadcasting Research Community",3.15,0,0,1,"EMEA",1,0,0,1,5,1,105
+"a0C00000000E055","HP Consumer Support Forums - Spanish",7.07,0,0,1,"NA",1,0,0,2,2,1,236
+"a0C00000003NZjv","Frontier Communications LSW",0.82,0,0,1,"NA",1,0,0,1,0,1,26
+"a0C00000000Djmh","Best Buy - Spanish",7.58,0,0,1,"NA",0,1,0,2,6,1,36
+"a0C00000000U4Ri","Blackberry  Support - Spanish",5.42,0,0,1,"NA",1,0,0,2,2,1,49
+"a0C00000001UwB4","Comcast Business Community",4.07,1,0,1,"NA",1,0,0,1,3,1,71
+"a0C00000000VFV8","Blackberry Support - Bahasa",5.13,0,0,1,"NA",1,0,0,2,0,1,66
+"a0C00000000E4Is","HP Consumer Support Forums - Chinese",6.96,0,0,1,"NA",1,0,0,1,2,1,258
+"a0C00000002oLOH","Orange Espana LSW",2.15,0,0,1,"EMEA",0,1,0,1,1,1,67
+"a0C00000002LeMm","du Support Community",3.01,1,0,1,"EMEA",1,0,0,1,5,1,14
+"a0C00000000E7Tv","HP Consumer Support Forums - French",6.86,0,0,1,"NA",1,0,0,2,2,1,315
+"a0C00000001cozc","Virgin Mobile Australia",3.95,0,0,1,"APAC",1,0,0,1,6,1,81
+"a0C00000002oD7T","ooredoo",2.19,0,0,1,"EMEA",0,1,0,1,6,1,30
+"a0C00000000Djmm","Best Buy - Insignia",7.58,0,0,1,"NA",0,1,0,1,6,1,57
+"a0C00000000Dg6F","Comcast Portal",8,1,0,1,"NA",1,0,0,1,4,0,83
+"a0C00000002dwLe","Axiom Telecom Community #2 (Shifra)",2.67,1,0,1,"EMEA",0,1,0,1,4,0,26
+"a0C00000002oNZW","Orange Espana Amena",2.14,0,0,1,"EMEA",0,1,0,1,2,1,12
+"a0C00000000FuyW","Telstra Community",5.9,0,0,1,"APAC",1,0,0,2,4,0,29
+"a0C00000002h7xK","HK Broadband Network (HKBN)",2.57,1,0,1,"APAC",1,0,0,1,5,0,56
+"a0C00000002oMjA","America Movil - Embratel Brasil",2.15,1,0,1,"LATAM",0,1,0,1,4,1,16
+"a0C00000002uVmn","British Sky Broadcasting Now TV - LSW",1.94,1,0,1,"EMEA",1,0,0,1,0,1,16
+"a0C00000000UcvJ","Mod Central",5.31,0,0,1,"NA",1,0,0,1,0,1,48
+"a0C00000000FdlU","Verizon Wireless",5.97,0,0,1,"NA",0,1,0,1,3,0,83
+"a0C000000014Tja","Rogers DM- Today's Parent",4.52,1,0,1,"NA",0,1,0,1,4,0,40
+"a0C610000037UtA","Fr LOsteria GmbH LSW",0.22,0,0,1,"EMEA",0,1,0,1,0,1,5
+"a0C00000002dwLZ","Axiom Telecom Community #1 (Shifra)",2.67,1,0,1,"EMEA",0,1,0,1,5,0,12
+"a0C00000003NW6Z","QVC LSW",0.93,0,0,1,"NA",1,0,0,1,6,1,11
+"a0C00000001vWU4","Boost Community (commid-telstrapop)",3.67,0,0,1,"APAC",1,0,0,1,7,1,18
+"a0C6100000377cL","Lyft LSW",0.25,0,0,1,"NA",0,1,0,1,0,1,3
+"a0C00000002dwLo","Axiom Telecom LSW (Shifra)",2.67,0,0,1,"EMEA",0,1,0,1,0,0,13
+"a0C00000002eLcF","Webcentral Community",2.65,1,0,1,"APAC",0,1,0,1,4,0,3
+"a0C00000000Eveo","iVillage Inc.",6.19,0,0,1,"NA",0,0,0,1,3,0,295
+"a0C00000001gUY5","HP Exstream Blogs",3.85,1,0,1,"NA",1,0,0,1,2,1,22
+"a0C00000000oy5l","Bombardier Evinrude Community",4.85,0,0,1,"NA",0,1,0,1,4,1,84
+"a0C00000000jO0T","Vodafone Australia Internal",4.9,0,0,1,"APAC",1,0,0,1,4,0,16
+"a0C00000000DgGK","Univision Blogs",7.99,1,0,1,"NA",1,0,0,2,1,0,0
+"a0C00000000FsRt","Verizon Newsroom",5.91,0,0,1,"NA",0,1,0,1,2,0,0
+"a0C00000003NWu6","Melbourne IT Ltd LSW",0.9,0,0,1,"APAC",0,1,0,1,0,0,0
+"a0C61000002QSPB","Leroy Merlin Italia S.r.l.",0.27,0,0,1,"EMEA",0,0,0,1,5,1,0
+"a0C6100000375IM","Ultimate Fighting Championship LSW",0.25,0,0,1,"NA",0,0,0,1,0,0,0
+"a0C00000000wlku","Orange France - SOSH",4.62,1,0,1,"EMEA",1,0,0,1,8,1,548
+"a0C00000002SnyX","eBay #7 Germany-DE",2.94,1,0,1,"NA",1,0,0,2,6,1,28
+"a0C00000002Snyh","eBay #9 France-FR",2.94,1,0,1,"NA",1,0,0,2,6,1,32
+"a0C00000001JAmb","Vodafone Turkey",4.31,0,0,1,"EMEA",1,0,0,1,6,1,185
+"a0C00000000UAcX","KPN",5.39,1,0,1,"EMEA",1,0,0,2,7,1,419
+"a0C00000002wcBb","Microstrategy Incorporated",1.74,1,0,1,"NA",1,0,0,1,6,1,136
+"a0C00000001C5zM","Vodafone Germany",4.41,0,0,1,"EMEA",1,0,0,1,7,1,182
+"a0C00000002bSI2","Royal Bank of Scotland Natwest Brands Community",2.73,0,0,1,"EMEA",1,0,0,1,4,1,30
+"a0C00000003N1NY","Vodafone NL LSW",1.25,0,0,1,"EMEA",1,0,0,1,0,1,45
+"a0C00000003Mpro","National Australia Bank LSW",1.42,0,0,1,"APAC",0,0,1,1,0,1,37
+"a0C00000000GLVU","Telefonica O2 Ireland",5.76,1,0,1,"EMEA",0,1,0,1,5,1,240
+"a0C00000003NCCw","Brooks Running LSW",1.08,0,0,1,"NA",0,1,0,1,0,1,2
+"a0C00000002Snyr","eBay #12 Poland-PL",2.94,1,0,1,"NA",1,0,0,2,6,1,16
+"a0C00000000V8hT","Skype - Customer",5.18,1,0,1,"NA",1,0,0,11,8,1,384
+"a0C00000003NYHr","SAS Institute Inc.",0.87,1,1,1,"NA",1,0,0,1,5,1,73
+"a0C00000000WLI2","Vodafone Spain",5.07,1,0,1,"EMEA",1,0,0,1,7,1,282
+"a0C00000002bSHx","Royal Bank of Scotland RBS Community",2.73,0,0,1,"EMEA",1,0,0,1,4,1,41
+"a0C00000002MZIW","eBay #1 US",2.99,1,0,1,"NA",1,0,0,1,6,1,196
+"a0C00000000FuGD","iVillage UK",5.91,0,0,1,"NA",0,0,0,2,2,0,146
+"a0C00000000GMT8","Telefonica de Espana",5.75,1,0,1,"EMEA",0,1,0,2,3,1,379
+"a0C000000025DbR","Vodafone New Zealand",3.42,1,0,1,"EMEA",1,0,0,1,6,1,75
+"a0C00000002WtM8","Orange France - Entraide Community",2.84,1,0,1,"EMEA",1,0,0,1,7,1,74
+"a0C00000003Nb1J","PayPal LSW",0.75,0,0,1,"NA",0,1,0,1,0,1,60
+"a0C00000003NfoX","Airbnb Community",0.57,1,1,1,"NA",1,0,0,12,9,1,25
+"a0C00000000WLHx","Vodafone Netherland",5.07,1,0,1,"EMEA",1,0,0,2,7,1,136
+"a0C00000003NZlW","Palo Alto Networks",0.82,1,1,1,"NA",1,0,0,2,9,1,37
+"a0C00000003Nn00","Starbucks Corporation LSW",0.35,0,1,1,"NA",1,0,0,1,0,1,2
+"a0C00000003NZo6","Microsoft Corp BI",0.82,0,1,1,"NA",1,0,0,1,7,1,52
+"a0C00000001DA20","Vodacom",4.37,0,0,1,"EMEA",1,0,0,1,7,1,67
+"a0C00000002yUMq","KPN Business Forum",1.61,0,0,1,"EMEA",1,0,0,2,6,1,34
+"a0C00000001IuRi","Vodafone Hungary",4.32,0,0,1,"EMEA",1,0,0,1,6,0,29
+"a0C00000000DgMw","PayPal - Developer",7.98,0,0,1,"NA",0,1,0,1,1,0,23
+"a0C00000003NCDB","Brooks Running",1.08,1,1,1,"NA",0,1,0,1,6,1,8
+"a0C00000002vyd3","Hewlett-Packard Pronq",1.81,1,0,1,"NA",0,0,0,1,3,0,41
+"a0C00000000EWRZ","HP Software Solutions",6.33,0,0,1,"NA",0,0,0,1,4,0,101
+"a0C00000002y1LK","Microsoft Corp LSW",1.64,0,0,1,"NA",1,0,0,1,0,1,5
+"a0C00000002MZIb","eBay #2 Canada-EN",2.99,1,0,1,"NA",1,0,0,1,6,1,13
+"a0C00000002Ecj2","SRR - Societe Reunionnaise du Radiotelephone",3.18,1,0,1,"EMEA",0,1,0,1,5,0,32
+"a0C00000001UwAu","Fox American Idol",4.07,1,0,1,"NA",1,0,0,1,9,0,48
+"a0C00000002Snyw","eBay #13 Australia-EN",2.94,1,0,1,"NA",1,0,0,2,6,1,5
+"a0C00000000FuE7","Silverpop",5.91,0,0,1,"NA",0,1,0,1,2,1,66
+"a0C00000003NjgB","Skype Technologies Responsive Beta",0.44,1,0,1,"NA",1,0,0,11,6,1,1
+"a0C00000000E4xi","Paypal - Beta",6.94,0,0,1,"NA",0,1,0,1,0,0,1
+"a0C00000002h2jL","Vodafone Xone",2.58,1,0,1,"EMEA",1,0,0,1,5,1,6
+"a0C00000000V8hO","Skype - Developer",5.18,1,0,1,"NA",1,0,0,1,6,0,88
+"a0C00000000EFAt","HP Support Guru",6.61,0,0,1,"NA",0,0,0,1,0,0,25
+"a0C00000000pAyf","HP Input Output Community",4.84,0,0,1,"NA",0,0,0,1,1,0,87
+"a0C000000023NOn","Xfactor - Fox",3.47,1,0,1,"NA",1,0,0,1,3,0,14
+"a0C00000001JAmW","Vodafone Greece",4.31,0,0,1,"EMEA",1,0,0,1,6,0,49
+"a0C00000000VEZl","HP Brand Community",5.14,0,0,1,"NA",0,0,0,1,2,0,10
+"a0C00000000hHXR","HP SMB Central",4.97,0,0,1,"NA",0,0,0,1,1,0,14
+"a0C00000003N7bL","Royal Bank of Scotland BizCrowd",1.13,0,0,1,"EMEA",1,0,0,1,6,1,8
+"a0C00000002Snyc","eBay #8 Spain-ES",2.94,1,0,1,"NA",1,0,0,2,6,1,1
+"a0C00000002MZIg","eBay #3 Canada-FR",2.99,1,0,1,"NA",1,0,0,2,6,1,3
+"a0C00000002Snz1","eBay #14 India-IN",2.94,1,0,1,"NA",1,0,0,1,6,1,1
+"a0C00000003NPNs","Vodafone Portugal LSW",1,0,0,1,"EMEA",1,0,0,1,0,1,4
+"a0C00000003NZoB","Microsoft Corp BI LSW",0.82,0,0,1,"NA",1,0,0,1,0,1,1
+"a0C00000003NZlb","Palo Alto Networks LSW",0.82,0,0,1,"NA",1,0,0,1,0,1,1
+"a0C00000002wcBg","Microstrategy Incorporated LSW",1.74,0,0,1,"NA",1,0,0,1,0,1,7
+"a0C00000002Snym","eBay #10 Italy-IT",2.94,1,0,1,"NA",1,0,0,2,6,1,2
+"a0C00000000DgN1","PayPal - Merchant",7.98,0,0,1,"NA",0,1,0,1,1,0,0
+"a0C00000003NnOz","Microsoft Azure",0.33,0,0,1,"NA",1,0,0,1,6,1,0
+"a0C00000003NiL3","Microsoft Corp (Office 365)",0.48,0,0,1,"NA",1,0,0,1,6,1,0
+"a0C00000002Snyn","eBay #11 Netherlands-NL",2.94,1,0,1,"NA",1,0,0,2,6,1,0
+"a0C00000003NbRZ","Skype Technologies  LSW",0.74,0,0,1,"NA",1,0,0,1,0,1,0
+"a0C00000001x01U","Fox Scout.com #5",3.63,1,0,1,"NA",1,0,0,1,8,0,0
+"a0C00000001x01P","Fox Scout.com #4",3.63,1,0,1,"NA",1,0,0,1,8,0,0
+"a0C00000001x01K","Fox Scout.com #3",3.63,1,0,1,"NA",1,0,0,1,8,0,0
+"a0C00000001x01F","Fox Scout.com #2",3.63,1,0,1,"NA",1,0,0,1,8,0,0
+"a0C00000003NgFr","Vodafone Group Global Skin",0.55,0,0,1,"EMEA",1,0,0,1,8,1,0
+"a0C00000002fNMq","Orange France LSW",2.63,0,0,1,"EMEA",1,0,0,1,0,0,0
+"a0C00000000UKTz","Vodafone UK",5.35,1,0,1,"EMEA",1,0,0,1,8,1,397
+"a0C00000002fZC2","ING BANK N.V. (France) LSW",2.62,0,0,1,"EMEA",1,0,0,1,0,1,91
+"a0C00000001vjfM","SFR",3.66,1,0,1,"EMEA",1,0,0,1,5,1,323
+"a0C00000002e9es","Fitbit  Community",2.66,1,0,1,"NA",0,1,0,6,7,1,195
+"a0C00000002EOyD","Swisscom LSW",3.18,0,0,1,"EMEA",0,1,0,1,0,1,91
+"a0C000000013u4j","Cisco Tech Zone (TAC)",4.54,1,0,1,"NA",1,0,0,1,5,1,859
+"a0C00000000E6U2","Autodesk",6.89,0,0,1,"NA",1,0,0,9,5,1,856
+"a0C000000032rad","ING Bank NV",1.59,1,0,1,"EMEA",1,0,0,1,3,1,60
+"a0C00000001eJpv","SFR - Joe Mobile (SNBL)",3.91,1,0,1,"EMEA",1,0,0,1,8,0,129
+"a0C00000000EJg0","giffgaff",6.5,1,0,1,"EMEA",1,0,0,1,8,1,590
+"a0C00000003NCGT","ING Bank Slaski (Poland)",1.08,0,1,1,"EMEA",1,0,0,2,4,1,10
+"a0C00000002oMiW","Leroy Merlin Espana S.L.U.",2.15,0,0,1,"EMEA",0,1,0,1,7,1,56
+"a0C00000002WT67","SFR LSW",2.85,0,0,1,"EMEA",1,0,0,1,0,1,55
+"a0C000000029y7X","Barclaycard - Arrival Travel",3.3,0,0,1,"NA",1,0,0,1,5,1,233
+"a0C00000002Sny3","eBay #4 UK",2.94,1,0,1,"NA",1,0,0,2,6,1,44
+"a0C00000002HUMs","Cisco Community Connector",3.1,1,0,1,"NA",1,0,0,1,3,1,61
+"a0C00000003NX0q","Fitbit LSW",0.9,0,0,1,"NA",0,1,0,1,0,1,98
+"a0C00000000DhCn","Symantec - Norton",7.89,0,0,1,"NA",0,1,0,1,3,0,323
+"a0C61000002R2ki","Vodafone Ireland LSW",0.26,0,0,1,"EMEA",1,0,0,1,0,1,2
+"a0C00000002GSWA","Symantec LSW",3.13,0,0,1,"NA",0,1,0,1,1,1,122
+"a0C00000002fZBx","ING BANK N.V. (France) Support & Marketing Community",2.62,0,0,1,"EMEA",1,0,0,1,4,1,71
+"a0C00000002AaeX","Royal Bank of Scotland Social Web",3.28,0,0,1,"EMEA",1,0,0,1,0,0,58
+"a0C000000032raY","ING Bank NV LSW",1.59,0,0,1,"EMEA",1,0,0,1,0,1,10
+"a0C00000001Y6Tw","BarclayCard - RING",3.97,1,0,1,"NA",1,0,0,1,9,1,112
+"a0C00000000E8Uc","PayPal - Member",6.82,0,0,1,"NA",0,1,0,10,5,1,366
+"a0C00000002AaeN","Hewlett Packard - Social Web",3.28,0,0,1,"NA",0,0,0,1,1,0,326
+"a0C00000002oMig","Leroy Merlin Espana LSW",2.15,0,0,1,"EMEA",0,1,0,1,3,1,5
+"a0C00000003NfYR","comdirect bank AG LSW",0.58,0,0,1,"EMEA",0,1,0,1,0,1,9
+"a0C00000002SnyI","eBay #5 Belgium-FR",2.94,1,0,1,"NA",1,0,0,2,6,1,1
+"a0C00000002eRrN","Consorsbank Community",2.65,1,0,1,"EMEA",0,1,0,1,12,1,119
+"a0C00000000EpUw","Swisscom Support Community",6.2,1,0,1,"EMEA",0,1,0,4,5,1,315
+"a0C00000000r4ZZ","Vodafone Romania",4.78,1,0,1,"EMEA",1,0,0,1,8,1,82
+"a0C00000002cCim","Barclays - Your Bank",2.71,0,0,1,"EMEA",0,1,0,1,3,1,34
+"a0C00000002AaeS","Dish Networks Social Web",3.28,0,0,1,"NA",0,1,0,1,0,0,184
+"a0C00000002AaeS","Dish Networks Social Web",3.28,0,0,1,"NA",0,1,0,1,0,1,184
+"a0C00000003NZi4","Cultura",0.82,0,0,1,"EMEA",0,1,0,1,5,1,1
+"a0C00000003NfYM","comdirect bank AG",0.58,0,0,1,"EMEA",0,1,0,1,8,1,5
+"a0C00000001vcUA","Vodafone Ireland",3.66,1,0,1,"EMEA",1,0,0,1,7,1,31
+"a0C00000002dwMK","Callidus Software Community",2.67,0,0,1,"NA",0,1,0,1,4,1,79
+"a0C00000000UC65","Vodafone Group",5.39,0,0,1,"EMEA",1,0,0,1,8,1,135
+"a0C00000000EEHz","Symantec - Norton French",6.64,0,0,1,"NA",0,1,0,2,0,0,95
+"a0C00000000DoAN","Symantec - Norton Japan",7.22,0,0,1,"NA",0,1,0,2,2,0,137
+"a0C00000000EhL0","Symantec - Norton German",6.24,0,0,1,"NA",0,1,0,2,3,0,92
+"a0C00000000DgPg","SCEA - SOCOM",7.98,1,0,1,"NA",0,1,0,1,1,0,26
+"a0C00000000DgPW","SCEA - Ratchet & Clank",7.98,1,0,1,"NA",0,1,0,1,1,0,6
+"a0C00000001JRqu","Barclaycard  - Innovation",4.3,0,0,1,"NA",1,0,0,1,1,1,43
+"a0C00000002L3c8","Vodafone Albania",3.02,0,0,1,"EMEA",1,0,0,1,5,1,18
+"a0C00000000UKU4","Vodafone Portugal",5.35,1,0,1,"EMEA",1,0,0,2,7,1,79
+"a0C00000002I0KE","Barclays (Europe)",3.09,0,0,1,"EMEA",0,1,0,1,2,1,8
+"a0C00000000UdDw","Symantec - Norton China",5.31,0,0,1,"NA",0,1,0,2,2,0,83
+"a0C00000000F4cp","Linksys - Flip",6.12,1,0,1,"NA",1,0,0,1,3,0,6
+"a0C00000000DgDv","Linksys - French",8,1,0,1,"NA",1,0,0,1,1,0,7
+"a0C00000001VVwX","Fox Scout.com #1",4.05,1,0,1,"NA",1,0,0,1,9,0,17
+"a0C00000000DgDz","Linksys - Italian",8,1,0,1,"NA",1,0,0,1,1,0,1
+"a0C00000000Tvnq","HP Cloud Computing",5.46,0,0,1,"NA",0,0,0,1,0,0,23
+"a0C00000000DgE0","Linksys - German",8,1,0,1,"NA",1,0,0,1,1,0,2
+"a0C00000000Dfep","Symantec - Internal (Read-only)",8.03,0,0,1,"NA",0,1,0,1,0,0,4
+"a0C00000003Njzb","BNP Paribas S.A. Niederlassung Deutschland LSW",0.43,0,0,1,"EMEA",0,1,0,1,0,1,1
+"a0C00000000DgDu","Linksys - Spanish",8,1,0,1,"NA",1,0,0,1,1,0,1
+"a0C00000000tUR5","HP China Blogs",4.71,0,0,1,"NA",0,0,0,2,2,0,18
+"a0C00000003Nnd7","Swiss Federal Railways - SBB",0.32,0,0,1,"EMEA",0,1,0,3,3,1,1
+"a0C00000002SnyS","eBay #6 Belgium-NL (Dutch)",2.94,1,0,1,"NA",1,0,0,2,6,1,1
+"a0C610000037q5n","Worldguide AG Responsive Dev Instance",0.21,0,0,1,"EMEA",0,1,0,1,2,1,1
+"a0C00000000DgNa","Symantec - STN",7.98,0,0,1,"NA",0,1,0,5,2,0,0
+"a0C00000000DgE1","Linksys - Portuguese",8,1,0,1,"NA",1,0,0,1,1,0,0
+"a0C610000038Msj","Cisco Systems, Inc.- GBS EE Support",0.17,0,1,1,"NA",1,0,0,1,7,1,0
+"a0C00000003NmCH","Callidus Software LSW",0.37,0,0,1,"NA",0,1,0,1,0,0,0
+"a0C610000038MrA","Microsoft Corp- Partner Network",0.17,0,1,1,"NA",1,0,0,1,6,1,0
+"a0C00000003Nnmw","Barclaycard US Support Community",0.32,0,0,1,"NA",1,0,0,1,6,1,0
+"a0C00000003Nlva","giffgaff Ltd LSW",0.38,0,0,1,"EMEA",1,0,0,1,0,1,0
+"a0C610000038PzU","Unity Technologies Community",0.16,0,1,1,"EMEA",1,0,0,1,6,1,0
+"a0C00000002hBrQ","SCEE (SCEJ) Japanese Community",2.56,0,0,1,"EMEA",0,1,0,1,5,1,53
+"a0C00000000DgPb","SCEE - Playstation Europe",7.98,1,0,1,"EMEA",0,1,0,11,7,1,955
+"a0C00000003Mxbv","AGL Energy Limited",1.32,0,0,1,"APAC",0,1,0,1,3,1,30
+"a0C00000001tgXl","Playstation - North America",3.72,1,0,1,"NA",0,1,0,1,7,1,440
+"a0C00000000Dg3k","MYOB",8,0,0,1,"APAC",0,1,0,1,1,1,170
+"a0C00000002nstv","Aspect - Santander LSW Puerto Rico",2.23,0,0,1,"NA",0,1,0,1,0,1,5
+"a0C00000003NlFC","Parrot S.A.",0.39,0,1,1,"EMEA",1,0,0,1,4,1,18
+"a0C00000002wcCr","Aspect - Telkom LSW",1.74,0,0,1,"NA",0,1,0,1,0,1,22
+"a0C00000003MvI9","Parrot S.A. LSW",1.33,0,0,1,"EMEA",1,0,0,1,0,1,13
+"a0C00000003NEWB","Google Fiber",1.07,1,0,1,"NA",1,0,0,1,3,1,15
+"a0C00000003NfIT","Worldguide AG",0.58,0,1,1,"EMEA",0,1,0,1,1,1,20
+"a0C00000002p7Eh","Google Advertiser - Japanese",2.06,0,0,1,"NA",1,0,0,1,7,1,104
+"a0C00000003NGYs","Aspect - Comporium LSW",1.05,0,0,1,"NA",0,1,0,1,0,1,2
+"a0C00000001M9Vp","Ipsos #61 - Bolin (Daily Essentials Network)",4.22,0,0,1,"NA",1,0,0,1,5,1,14
+"a0C000000026KC0","Ipsos #79 - Nutricia",3.39,0,0,1,"NA",1,0,0,1,5,1,54
+"a0C00000003N3KY","Bankwest - Western Australia",1.19,0,1,1,"APAC",0,1,0,1,2,1,19
+"a0C00000001LloT","Ipsos #57 - Voice of the West",4.23,0,0,1,"NA",1,0,0,1,4,1,22
+"a0C00000000DgNV","SCEA - Playstation",7.98,1,0,1,"NA",0,1,0,1,1,0,109
+"a0C00000003Mxbq","AGL Energy Limited LSW",1.32,0,0,1,"APAC",0,1,0,1,0,1,3
+"a0C00000000Dh8M","Motorola - Dev Studio",7.9,1,0,1,"NA",0,0,0,1,1,0,132
+"a0C00000000DgDL","Fair Isaac - Fico Forums",8,1,0,1,"NA",0,1,0,3,3,1,175
+"a0C00000001tgXq","Playstation - Latin America",3.72,1,0,1,"NA",0,1,0,1,7,1,30
+"a0C00000003Neuz","Bank of Western Australia Ltd. LSW",0.59,0,0,1,"APAC",0,1,0,1,0,1,4
+"a0C00000002vfu0","Ipsos #93",1.84,0,0,1,"NA",1,0,0,1,4,1,12
+"a0C00000002hN2P","Castrol Limited",2.54,0,0,1,"EMEA",0,1,0,11,1,1,20
+"a0C00000000Dn9v","SCEA - My Resistance",7.29,1,0,1,"NA",0,1,0,1,1,0,25
+"a0C00000001Cyxw","Ipsos #50 - Air Transat",4.38,0,0,1,"NA",1,0,0,1,4,1,11
+"a0C00000002wWih","Aspect - Outerwall LSW",1.75,0,0,1,"NA",0,1,0,1,0,1,41
+"a0C00000000E8p5","SCEA - God of War",6.81,1,0,1,"NA",0,1,0,1,1,0,34
+"a0C00000002yMIi","Ipsos #94",1.61,0,0,1,"NA",1,0,0,1,4,1,17
+"a0C00000000E5PK","SCEA - MAG",6.92,1,0,1,"NA",0,1,0,1,1,0,15
+"a0C00000000DkuZ","SCEA - Little Big Planet",7.45,1,0,1,"NA",0,1,0,1,1,0,26
+"a0C00000002wVS7","Ipsos #95",1.75,0,0,1,"NA",1,0,0,1,4,1,13
+"a0C00000000E8wn","SCEA - Naughty Dog",6.81,1,0,1,"NA",0,1,0,1,1,0,18
+"a0C00000001zcGL","Ipsos #76 - Tesco (Shopper Thoughts)",3.56,0,0,1,"NA",1,0,0,1,5,1,18
+"a0C00000002hAEU","Ipsos #88 Orange",2.57,0,0,1,"NA",1,0,0,1,5,0,24
+"a0C000000027mMA","Google Advertiser - Polish",3.35,1,0,1,"NA",1,0,0,1,8,1,47
+"a0C00000000Dfek","SCEE - Killzone",8.03,1,0,1,"EMEA",0,1,0,11,2,1,34
+"a0C000000022Eom","Ipsos #77 - Merck",3.5,0,0,1,"NA",1,0,0,1,5,1,42
+"a0C00000002pQQn","Ipsos #92",2.04,0,0,1,"NA",1,0,0,1,4,0,11
+"a0C00000000E0s2","SCEA - Playstation LATAM",7.05,1,0,1,"NA",0,1,0,2,1,0,11
+"a0C00000000q8Lb","Alloy Inc",4.81,1,0,1,"NA",0,0,0,1,5,0,36
+"a0C00000003N46a","Aspect - Southwest Airlines LSW",1.18,0,0,1,"NA",0,1,0,1,0,1,20
+"a0C00000001Bbov","Ipsos #47 - Enbridge Gas",4.42,0,0,1,"NA",1,0,0,1,4,1,10
+"a0C00000001B3a1","Ipsos #44 - Argos",4.44,0,0,1,"NA",1,0,0,1,4,0,4
+"a0C00000001Cyy6","Ipsos #52 - Nestle (Baby Talk)",4.38,0,0,1,"NA",1,0,0,1,4,1,9
+"a0C00000002o4TI","Aspect - LSW First Merit Bank",2.21,0,0,1,"NA",0,1,0,1,0,1,10
+"a0C00000002oAyv","Aspect - Arvato Direct Services LSW",2.19,0,0,1,"NA",0,1,0,1,0,1,4
+"a0C00000002pMNn","Ipsos #91 - My dollars my sense",2.04,0,0,1,"NA",1,0,0,1,4,1,5
+"a0C00000003Mbnc","Ipsos #96",1.46,0,0,1,"NA",1,0,0,2,4,1,8
+"a0C000000033KUu","Google Youtube Music Community",1.53,1,0,1,"NA",1,0,0,1,7,1,25
+"a0C00000003N3R9","Ipsos #101",1.19,0,0,1,"NA",1,0,0,2,4,1,22
+"a0C00000003N4Cj","RMIT",1.17,1,1,1,"APAC",0,0,1,1,3,1,5
+"a0C00000003NYU4","Ipsos #107 - Chase",0.86,0,0,1,"NA",1,0,0,1,4,1,12
+"a0C00000003N4Hb","Aspect - Bell Tech Colombia LSW",1.16,0,0,1,"NA",0,1,0,1,0,1,10
+"a0C00000003N0kx","Ipsos #100",1.25,0,0,1,"NA",1,0,0,2,4,1,6
+"a0C00000003Myel","Ipsos #97",1.29,0,0,1,"NA",1,0,0,2,4,1,7
+"a0C00000003MzmO","Ipsos #98",1.26,0,0,1,"NA",1,0,0,2,4,1,6
+"a0C00000003Mt2m","CGU Community",1.36,0,0,1,"APAC",0,1,0,1,3,1,5
+"a0C00000003MzmT","Ipsos #99",1.26,0,0,1,"NA",1,0,0,2,4,1,9
+"a0C00000003MqwM","Aspect - Pet Safe(Radio Systems) LSW",1.38,0,0,1,"NA",0,1,0,1,0,1,2
+"a0C00000003Mpno","Aspect LSW - Zara Home",1.42,0,0,1,"NA",0,1,0,1,1,1,3
+"a0C00000003NfM6","Aspect Land's End LSW",0.58,0,0,1,"NA",0,1,0,1,0,1,3
+"a0C610000037apt","Logrhythm",0.21,0,1,1,"NA",0,0,0,1,5,1,1
+"a0C00000003NnZ1","Sony Europe LSW",0.32,0,0,1,"EMEA",0,1,0,1,0,0,1
+"a0C00000000DhCo","SCEA - My Resistance (read-only)",7.89,1,0,1,"NA",0,1,0,1,1,0,0
+"a0C00000003Noa0","Aspect Ocular LSW",0.29,0,0,1,"NA",0,1,0,1,0,1,0
+"a0C00000002vVyW","Aspect - Wipro LSW",1.85,0,0,1,"NA",0,1,0,1,0,1,0
+"a0C00000003NnTK","Google Local Guides",0.33,0,0,1,"NA",1,0,0,1,5,1,0
+"a0C00000003Neuu","Immigration and Border Protection LSW",0.59,0,0,1,"APAC",0,0,0,1,0,1,0
+"a0C61000003Amiw","Infiniti Retail Croma Community (Consus Global)",0.09,0,0,1,"APAC",0,0,0,1,4,1,0
+"a0C00000002Tkma","TalkTalk Telecom Community",2.92,0,0,1,"EMEA",1,0,0,1,8,1,149
+"a0C00000003NZii","IG Group",0.82,1,1,1,"EMEA",0,1,0,1,5,1,16
+"a0C00000001Nvvz","Google Advertiser - English",4.16,0,0,1,"NA",1,0,0,1,7,1,570
+"a0C00000000GJP9","Ipsos #10 - Florida Lotteries",5.77,0,0,1,"NA",1,0,0,1,3,1,27
+"a0C00000001Pdom","Ipsos #65 - JC Penny (JCP Insiders)",4.1,0,0,1,"NA",1,0,0,1,5,1,124
+"a0C00000002EADM","Sony EU Community #1",3.19,1,0,1,"EMEA",0,1,0,2,6,1,419
+"a0C00000001VVwN","Google Advertiser - German",4.05,0,0,1,"NA",1,0,0,1,6,1,125
+"a0C00000002e9eG","Google Adwords LSW",2.66,0,0,1,"NA",1,0,0,1,0,0,38
+"a0C00000002BLsx","Google Glass",3.26,1,0,1,"NA",1,0,0,1,10,0,154
+"a0C00000002Fqh3","Sony Mobile Community",3.14,1,0,1,"EMEA",0,1,0,1,3,1,141
+"a0C0000000128eR","Ipsos #33 - P&G MDO (Vocalpoint Voice)",4.59,0,0,1,"NA",1,0,0,1,4,1,192
+"a0C00000001xFzT","Google Advertiser - Chinese",3.62,1,0,1,"NA",1,0,0,1,7,1,65
+"a0C00000001OI95","Nestle Mexico",4.15,1,0,1,"LATAM",0,1,0,1,5,0,105
+"a0C00000002JdV8","Google Glass LSW",3.05,0,0,1,"NA",1,0,0,1,2,1,99
+"a0C0000000128eS","Ipsos #34 - P&G Male Grooming (Razor's Edge)",4.59,0,0,1,"NA",1,0,0,1,4,1,166
+"a0C00000002FGgg","Aspect LSW #1 - Aspect Internal",3.16,0,0,1,"NA",0,1,0,1,1,1,46
+"a0C00000000GJOf","Ipsos #03 - IAB and MediaCT (HearWatchSay)",5.77,0,0,1,"NA",1,0,0,1,4,1,226
+"a0C00000002AS3u","Ipsos #80 - Sky",3.28,0,0,1,"NA",1,0,0,1,5,1,82
+"a0C00000000GJPJ","Ipsos #25 - Shoppers Drug Mart",5.77,0,0,1,"NA",1,0,0,1,3,1,41
+"a0C00000001VVwD","Google Advertiser - Portuguese",4.05,0,0,1,"NA",1,0,0,1,7,1,153
+"a0C000000019f7k","Ipsos #43 - Bank of Montreal",4.49,0,0,1,"NA",1,0,0,1,4,1,12
+"a0C00000003NZjR","GS Group (aka Isuzu)",0.82,0,1,1,"APAC",0,1,0,1,4,1,10
+"a0C00000001VVwI","Google Advertiser - Russian",4.05,0,0,1,"NA",1,0,0,1,7,1,120
+"a0C00000002VK40","Aspect LSW #2 - STD Multiopcion (Termaria)",2.88,0,0,1,"NA",0,1,0,1,1,1,14
+"a0C00000002xpoH","Google Youtube Community",1.65,1,1,1,"NA",1,0,0,1,7,1,74
+"a0C00000000GJPK","Ipsos #16 - IpsosPrototype2",5.77,0,0,1,"NA",1,0,0,1,3,1,148
+"a0C00000000GJOu","Ipsos #06 - Conde Nast",5.77,0,0,1,"NA",1,0,0,1,3,1,135
+"a0C00000002hkBf","Ipsos #90 - P&G Hair Care",2.49,0,0,1,"NA",1,0,0,1,4,1,28
+"a0C00000000GJP4","Ipsos #09 - Ipsos MRCW (Opinions)",5.77,0,0,1,"NA",1,0,0,1,3,1,74
+"a0C00000002AS3z","Ipsos #81 - PMI",3.28,0,0,1,"NA",1,0,0,1,5,0,62
+"a0C00000001vdTO","Nestle - Young Mothers",3.66,1,0,1,"LATAM",0,1,0,1,6,0,2
+"a0C00000002mHZp","Aspect - BRM - LSW",2.44,0,0,1,"NA",0,1,0,1,0,1,2
+"a0C00000002Uo3A","Ipsos #67 Belair Direct (Your Two Cents)",2.89,0,0,1,"NA",1,0,0,1,4,1,6
+"a0C00000000GJOk","Ipsos #04 - P&G MDO (VPVoice FKA My Shopper Voice)",5.77,0,0,1,"NA",1,0,0,1,4,1,205
+"a0C00000001Ppvo","Ipsos #60 - Harris / M&I (BMO Harris Customer Insights Council)",4.1,0,0,1,"NA",1,0,0,1,5,1,19
+"a0C00000001fzTR","Ipsos #54 - Capital One",3.87,0,0,1,"NA",1,0,0,1,5,1,19
+"a0C00000000uhF7","Ipsos #31 - Freemantle Media",4.68,0,0,1,"NA",1,0,0,1,3,1,31
+"a0C00000002JdRS","Ipsos #85 Shop and Share",3.05,0,0,1,"NA",1,0,0,1,4,0,40
+"a0C00000000DmFs","Riverbed Technology",7.41,0,0,1,"NA",0,0,0,1,2,0,80
+"a0C00000001VVw8","Google Advertiser - French",4.05,0,0,1,"NA",1,0,0,1,7,1,89
+"a0C00000001Ppvy","Ipsos #63 - Kraft (Grocery)",4.1,0,0,1,"NA",1,0,0,1,5,1,135
+"a0C00000002JdRI","Ipsos #83 Premera",3.05,0,0,1,"NA",1,0,0,1,4,1,9
+"a0C00000001lS00","Google Advertiser - Italian",3.83,0,0,1,"NA",1,0,0,1,7,1,85
+"a0C00000000GHqE","Ipsos #02 - Ipsos (Qual Connect)",5.78,0,0,1,"NA",1,0,0,1,4,0,58
+"a0C00000000GJOz","Ipsos #07 - Ipsos internal (My Ipsos Idea)",5.77,0,0,1,"NA",1,0,0,1,3,1,31
+"a0C00000002Uo3K","Ipsos #86 Asics",2.89,0,0,1,"NA",1,0,0,1,4,1,25
+"a0C00000001ySNi","Ipsos #75 - HomeCleanHome.com",3.59,0,0,1,"NA",1,0,0,1,5,1,71
+"a0C00000002mVEi","Aspect - Sovereign Bank - LSW - Santander North America",2.41,0,0,1,"NA",0,1,0,1,0,1,16
+"a0C00000001Ppvt","Ipsos #62 - T-Mobile",4.1,0,0,1,"NA",1,0,0,1,5,1,103
+"a0C00000002eRoV","Ipsos #87 Google",2.65,0,0,1,"NA",1,0,0,1,5,1,40
+"a0C00000000GJPA","Ipsos #12 - Kraft UK",5.77,0,0,1,"NA",1,0,0,1,3,0,44
+"a0C0000000128eM","Ipsos #32 - Kraft (The Ipsos Idea Factory)",4.59,0,0,1,"NA",1,0,0,1,4,0,4
+"a0C00000000GJPF","Ipsos #13 - Direct Energy",5.77,0,0,1,"NA",1,0,0,1,3,0,38
+"a0C00000000GJPB","Ipsos #19 - Ipsos France (France Election 2012)",5.77,0,0,1,"NA",1,0,0,1,3,0,30
+"a0C00000000GJOp","Ipsos #05 - Pages Jaunes (Yellow Pages)",5.77,0,0,1,"NA",1,0,0,1,3,0,9
+"a0C00000001fzTW","Ipsos #64 - Natura",3.87,0,0,1,"NA",1,0,0,1,5,1,12
+"a0C00000002HTSm","Ipsos #82 Fast Food Panel",3.1,0,0,1,"NA",1,0,0,1,4,1,31
+"a0C00000002hkBp","Ipsos #89 - Coast Capital Savings Credit Union",2.49,0,0,1,"NA",1,0,0,1,5,1,4
+"a0C000000014slH","Ipsos #42 - CTHRC",4.51,0,0,1,"NA",1,0,0,1,4,0,7
+"a0C00000000GJPE","Ipsos #11 - Pfizer Livestock",5.77,0,0,1,"NA",1,0,0,1,3,1,11
+"a0C00000000GJOg","Ipsos #08 - GM Onstar",5.77,0,0,1,"NA",1,0,0,1,3,0,11
+"a0C00000000uhFH","Ipsos #30 - Medtronic",4.68,0,0,1,"NA",1,0,0,1,3,0,14
+"a0C00000000uhF2","Ipsos #29 - Rogers",4.68,0,0,1,"NA",1,0,0,1,3,0,11
+"a0C00000000wBmQ","Alloy Inc. Gurl.com",4.64,1,0,1,"NA",0,0,0,1,3,0,55
+"a0C00000001p5iO","Ipsos #71 - BBC (Chatterbox Panel)",3.73,0,0,1,"NA",1,0,0,1,5,1,65
+"a0C00000001Ppvj","Ipsos #55 - IOTX (Ipsos Socialized Research)",4.1,0,0,1,"NA",1,0,0,1,4,0,10
+"a0C00000000Dmna","SCEE - Motorstorm",7.34,1,0,1,"EMEA",0,1,0,10,2,0,2
+"a0C00000002JdRN","Ipsos #84 Mondelez",3.05,0,0,1,"NA",1,0,0,1,4,1,7
+"a0C00000003NiKo","Ipsos #110 (Canada)",0.48,0,0,1,"NA",1,0,0,1,4,1,6
+"a0C00000002mkH4","Aspect - Contact Center America LSW",2.38,0,0,1,"NA",0,1,0,1,0,1,1
+"a0C00000003N7kP","Videotron LSW",1.12,0,0,1,"NA",0,0,1,1,0,0,0
+"a0C00000002w7OV","T-Systems (Telekomhilft)",1.79,1,0,1,"EMEA",0,1,0,1,10,1,162
+"a0C00000000DfzE","Nokia Worldwide",8.01,1,0,1,"EMEA",1,0,0,9,3,0,532
+"a0C00000000Evyu","HPE Community",6.19,0,0,1,"NA",1,0,0,8,1,1,977
+"a0C00000000G7j9","Rogers Communications",5.83,1,0,1,"NA",0,1,0,2,7,1,206
+"a0C00000002aCFv","Nokia LSW",2.76,0,0,1,"EMEA",1,0,0,1,0,0,271
+"a0C00000002vnvd","Rogers Communications LSW",1.82,0,0,1,"NA",0,1,0,1,0,1,149
+"a0C00000000uhEx","Ipsos #28 - Air Canada",4.68,0,0,1,"NA",1,0,0,1,3,1,18
+"a0C00000000G98V","Fido",5.83,0,0,1,"NA",0,1,0,2,5,1,69
+"a0C0000000234Gn","Telekom Austria - VIPnet",3.47,1,0,1,"EMEA",0,1,0,1,9,1,62
+"a0C00000002oEnV","Post Office Ltd LSW",2.18,0,0,1,"EMEA",0,1,0,1,0,1,40
+"a0C610000037w8c","Capita Plc LSW",0.2,0,0,1,"EMEA",0,1,0,1,0,1,2
+"a0C00000002vH3G","British Gas LSW",1.88,1,0,1,"EMEA",0,1,0,1,0,1,136
+"a0C00000003NfgF","Flybe LSW",0.57,0,0,1,"EMEA",0,1,0,1,0,1,24
+"a0C00000002MZ9J","Breast Cancer Care",2.99,0,0,1,"EMEA",0,1,0,1,2,1,150
+"a0C00000000GJPi","Ipsos #22 - Avon",5.77,0,0,1,"NA",1,0,0,1,3,0,26
+"a0C00000002nOhw","TalkTalk Telecom LSW",2.3,0,0,1,"EMEA",1,0,0,1,0,1,114
+"a0C00000001CBKK","Telekom Austria - A1 Community",4.41,1,0,1,"EMEA",0,1,0,1,5,1,299
+"a0C00000002oMgp","HPE Haven OnDemand Developer Community",2.15,1,0,1,"NA",1,0,0,1,3,1,60
+"a0C00000000GJPn","Ipsos #23 - Bank of America",5.77,0,0,1,"NA",1,0,0,1,3,1,66
+"a0C00000002hld1","AARP Community",2.48,1,0,1,"NA",0,1,0,1,3,1,114
+"a0C00000002uVqB","HPE Developer Community",1.94,0,0,1,"NA",1,0,0,1,3,1,48
+"a0C00000002mLXF","NPower Direct LSW",2.43,0,0,1,"EMEA",0,1,0,1,0,1,104
+"a0C00000000tpVr","Ipsos #27 - VISA",4.7,0,0,1,"NA",1,0,0,1,3,0,21
+"a0C00000003MxaJ","Campbell-Ewald Covered California LSW",1.32,0,0,1,"NA",0,1,0,1,0,1,27
+"a0C00000000Dg8V","Nokia N-Gage",8,0,0,1,"NA",0,0,0,7,0,0,15
+"a0C00000001VVwS","Google Advertiser - Spanish",4.05,0,0,1,"NA",1,0,0,1,7,1,133
+"a0C00000000DkHz","Staples",7.51,0,0,1,"NA",0,0,0,1,2,0,128
+"a0C00000003NZjg","Hexagon Geospatial",0.82,0,0,1,"EMEA",0,1,0,1,6,1,8
+"a0C00000002qBxg","HPE LSW",1.96,0,0,1,"NA",1,0,0,1,0,1,23
+"a0C00000001p5iY","Ipsos #73 - Telemundo (Telemundo VIP)",3.73,0,0,1,"NA",1,0,0,1,5,1,53
+"a0C00000000GHq9","Ipsos #01 - Nokia",5.78,0,0,1,"NA",1,0,0,2,3,0,70
+"a0C00000002ycyJ","Swiss Life AG",1.59,1,0,1,"EMEA",0,0,1,1,8,1,8
+"a0C00000000GJPs","Ipsos #24 - Minnesota Lottery",5.77,0,0,1,"NA",1,0,0,1,3,1,25
+"a0C0000000234Gs","Telekom Austria - Mtel",3.47,1,0,1,"EMEA",0,1,0,1,9,1,25
+"a0C0000000128eg","Ipsos #36 - P&G Oral Care",4.59,0,0,1,"NA",1,0,0,1,4,1,215
+"a0C00000000EWRU","HP Corporate Marketing Blogs",6.33,0,0,1,"NA",1,0,0,5,1,0,338
+"a0C00000001p5id","Ipsos #74 - IOTX  (Socialized Research)",3.73,0,0,1,"NA",1,0,0,1,6,1,118
+"a0C00000002xZQ4","Upwork Inc.",1.67,0,0,1,"NA",0,1,0,1,3,1,94
+"a0C00000000Djuq","Fair Isaac - DMC",7.56,1,0,1,"NA",0,1,0,1,2,0,31
+"a0C00000002uyCy","XXXLutz Germany",1.92,1,0,1,"EMEA",0,1,0,1,5,1,11
+"a0C00000000DhHs","Fair Isaac - Card Alert",7.88,0,0,1,"NA",0,1,0,1,1,0,54
+"a0C00000000tpVm","Ipsos #26 - Schwan's",4.7,0,0,1,"NA",1,0,0,1,3,1,35
+"a0C0000000128el","Ipsos #37 - P&G Fem Care (The Feminine Side)",4.59,0,0,1,"NA",1,0,0,5,4,1,133
+"a0C0000000128ev","Ipsos #39 - PayPal",4.59,0,0,1,"NA",1,0,0,1,4,1,32
+"a0C00000000GJPO","Ipsos #15 - Sprint",5.77,0,0,1,"NA",1,0,0,1,3,0,18
+"a0C00000000GJPd","Ipsos #20 - Canoe Ventures",5.77,0,0,1,"NA",1,0,0,1,3,0,100
+"a0C00000000GJPY","Ipsos #18 - Kraft Germany",5.77,0,0,1,"NA",1,0,0,1,3,0,38
+"a0C00000000Eohh","Moto Dev - Chinese",6.21,0,0,1,"NA",0,0,0,2,2,0,7
+"a0C00000003NaBf","Bell Canada LSW",0.8,0,0,1,"NA",0,1,0,1,0,1,13
+"a0C00000002vwUO","Medion AG",1.81,1,0,1,"EMEA",0,0,1,4,2,1,16
+"a0C00000000Doal","Fair Isaac - DMA",7.21,1,0,1,"NA",0,1,0,1,1,0,3
+"a0C00000000UAcr","Charter Communications",5.39,0,0,1,"NA",0,0,0,1,4,0,91
+"a0C610000037CT6","Gs Group LSW",0.25,0,0,1,"APAC",0,1,0,1,0,0,1
+"a0C0000000128eb","Ipsos #35 - Ipsos China (Baby Care Pilot)",4.59,0,0,1,"NA",1,0,0,1,4,0,21
+"a0C0000000128eq","Ipsos #38 - Ipsos UK (Ipsos Mori Connects)",4.59,0,0,1,"NA",1,0,0,1,4,1,70
+"a0C00000000EOYR","Staples - At Work - Internal HR Community",6.42,1,0,1,"NA",0,0,0,1,3,0,4
+"a0C000000012SdH","Ipsos #41 - North Shore Credit Union",4.58,0,0,1,"NA",1,0,0,1,4,0,6
+"a0C00000002yb2u","Loblaw Companies Limited",1.59,0,0,1,"NA",0,1,0,1,6,1,13
+"a0C00000003NgMc","XXXLutz KG Austria",0.55,1,0,1,"EMEA",0,1,0,1,5,1,4
+"a0C0000000331ku","OBI Digital GmbH",1.57,0,0,1,"EMEA",0,0,1,1,6,1,5
+"a0C00000003McOX","Loblaw Companies Limited (French)",1.46,0,0,1,"NA",0,1,0,1,6,1,1
+"a0C00000002hldB","AARP LSW",2.48,0,0,1,"NA",0,1,0,1,0,1,3
+"a0C610000038WHe","Rapidminer, Inc Community",0.15,1,0,1,"EMEA",0,1,0,1,7,1,1
+"a0C610000038DtO","Telvista , Inc LSW",0.19,0,0,1,"NA",0,1,0,1,0,1,2
+"a0C00000003Nlnx","Upwork Inc. LSW",0.39,0,0,1,"NA",0,1,0,1,0,1,1
+"a0C610000037MvF","Scottish Power Ltd LSW",0.23,0,1,1,"EMEA",1,0,0,1,0,1,2
+"a0C610000038ZA6","Samsung Electronics America, Inc.",0.14,0,0,1,"NA",1,0,0,1,8,1,0
+"a0C610000037MrZ","Scottish Power Ltd",0.23,0,0,1,"EMEA",1,0,0,1,5,1,0
+"a0C00000003NjrW","Nuelle, Inc. LSW",0.44,0,0,1,"NA",0,0,0,1,0,0,0
+"a0C610000037swL","10X Genomics",0.2,0,0,1,"NA",0,1,0,1,7,1,0
+"a0C61000002Q1CA","Ticketnetwork LSW",0.27,0,0,1,"NA",0,0,0,1,0,0,0
+"a0C00000002v2N0","Volia Limited",1.9,0,0,1,"EMEA",0,1,0,1,3,1,38
+"a0C00000000EAyB","Virgin Media",6.73,0,0,1,"EMEA",0,1,0,2,4,1,255
+"a0C00000000DgCw","Lenovo",8,0,0,1,"NA",0,1,0,4,5,1,352
+"a0C00000001nkgv","LEGO Global",3.76,1,0,1,"EMEA",0,1,0,2,5,1,281
+"a0C000000028dtk","Ubiquiti Networks Community",3.33,1,0,1,"NA",0,1,0,4,7,1,236
+"a0C00000000Dfxh","AT&T Wireless",8.01,0,0,1,"NA",1,0,0,1,3,1,1003
+"a0C00000003N3RJ","UPC Cablecom",1.19,0,0,1,"EMEA",0,1,0,4,6,1,46
+"a0C00000003MZiC","WIND Telecomunicazioni S.p.A.",1.46,1,0,1,"EMEA",0,1,0,1,3,1,9
+"a0C0000000271Pv","H&R Block",3.37,1,0,1,"NA",0,1,0,1,8,1,92
+"a0C00000000VB9d","F-Secure Direct Consumers",5.15,1,0,1,"EMEA",0,1,0,1,7,1,490
+"a0C00000002e9e6","T-Systems (Deutsche Telekom)",2.66,0,0,1,"EMEA",0,1,0,1,9,1,125
+"a0C00000003NWvI","Allied Irish Bank",0.9,0,0,1,"EMEA",0,1,0,1,3,1,5
+"a0C00000003NoS2","Datawords LSW",0.29,0,0,1,"EMEA",0,1,0,1,0,1,9
+"a0C000000033Rm1","TeliaSonera Finland Oyj",1.52,1,0,1,"EMEA",1,0,0,2,4,1,69
+"a0C00000002DJV1","Viessmann Community",3.21,0,0,1,"EMEA",0,1,0,1,7,1,50
+"a0C00000003N9fS","Hutchison 3G Ireland (Three Ireland)",1.11,0,0,1,"EMEA",0,1,0,1,2,1,25
+"a0C000000025KAL","Acer",3.42,0,0,1,"APAC",1,0,0,4,8,1,206
+"a0C00000000GQGJ","TDC",5.73,1,0,1,"EMEA",1,0,0,2,5,1,125
+"a0C000000025ZwY","Commonwealth Bank of Australia  - CommSec",3.41,1,0,1,"APAC",1,0,0,1,6,1,140
+"a0C00000001zygh","Everything Everywhere - Project 11",3.55,0,0,1,"EMEA",0,1,0,1,7,1,171
+"a0C00000002oAyg","Portugal Telecom",2.19,1,0,1,"EMEA",0,1,0,2,3,1,40
+"a0C00000003MvI4","XL Axiata LSW",1.33,0,0,1,"APAC",1,0,0,1,0,1,39
+"a0C00000002doew","A1 Telekom Austria LSW",2.67,0,0,1,"EMEA",0,1,0,1,0,1,108
+"a0C00000000hHXq","Casino - French",4.97,0,0,1,"EMEA",0,1,0,1,5,1,296
+"a0C00000002nsEA","Everything Everywhere LSW",2.23,0,0,1,"EMEA",0,1,0,1,0,1,168
+"a0C00000001NQbF","MEGA",4.18,0,0,1,"EMEA",0,1,0,1,5,1,113
+"a0C00000000EUT7","BT Consumer",6.35,1,0,1,"EMEA",1,0,0,2,4,1,242
+"a0C00000002Wlls","Presto Community",2.84,1,0,1,"APAC",0,1,0,1,3,1,32
+"a0C00000003MxaO","Tesco Bank",1.32,0,0,1,"EMEA",0,1,0,1,5,1,38
+"a0C00000002Ykvj","Virgin Media LSW",2.79,0,0,1,"EMEA",0,1,0,1,0,1,116
+"a0C00000003NaaE","Woolworths Limited LSW",0.78,0,0,1,"APAC",0,1,0,1,0,1,10
+"a0C00000002mAhE","LEGO Education",2.45,1,0,1,"EMEA",0,1,0,2,1,1,60
+"a0C00000002p7Bs","Telenet N.V.",2.06,1,0,1,"EMEA",1,0,0,1,3,1,59
+"a0C00000000EJnU","Meredith - Wood Magazine",6.5,1,0,1,"NA",0,1,0,1,3,1,28
+"a0C00000003Nnuo","Plusnet plc",0.31,0,1,1,"EMEA",0,1,0,1,2,1,3
+"a0C00000002y1cF","TDC Yousee",1.64,1,0,1,"EMEA",1,0,0,2,2,1,50
+"a0C000000025fUS","Three Ireland (Hutchison) -  48 months",3.41,0,0,1,"EMEA",0,1,0,1,6,1,65
+"a0C00000003N9fN","Hutchison 3G Ireland (Three Ireland) LSW",1.11,0,0,1,"EMEA",0,1,0,1,0,1,44
+"a0C00000003N3RO","CWBA Women in Focus",1.19,1,0,1,"APAC",1,0,0,1,7,1,81
+"a0C00000003MBvp","Lidl UK",1.48,0,0,1,"EMEA",0,0,1,1,4,1,28
+"a0C00000002EtCY","Media-Saturn #1 Germany",3.17,1,0,1,"EMEA",0,1,0,2,11,1,55
+"a0C00000002xoab","Vimla Community",1.65,1,0,1,"EMEA",0,0,1,1,6,1,53
+"a0C00000002v0JX","Electrabel S.A.",1.91,1,0,1,"EMEA",1,0,0,1,8,1,33
+"a0C00000002EtCt","Media-Saturn Themenwelten",3.17,0,0,1,"EMEA",0,1,0,1,11,1,26
+"a0C00000002EtCt","Media-Saturn Themenwelten",3.17,0,0,1,"EMEA",0,1,0,1,11,1,26
+"a0C00000002EtCT","Mediamarkt Club Community",3.17,1,0,1,"EMEA",0,1,0,2,12,1,26
+"a0C00000002EtCT","Mediamarkt Club Community",3.17,1,0,1,"EMEA",0,1,0,2,12,1,26
+"a0C000000024nKD","Commonwealth Bank of Australia - SDW",3.43,1,0,1,"APAC",1,0,0,1,4,1,92
+"a0C00000002d5hF","Turkcell",2.69,1,0,1,"EMEA",0,1,0,1,4,1,58
+"a0C00000000EDc3","Meredith Corp - BHG",6.66,1,0,1,"NA",0,1,0,1,3,0,56
+"a0C00000003MvHz","XL Axiata",1.33,0,0,1,"APAC",1,0,0,2,5,1,24
+"a0C00000000EWjx","Meredith - Fitness",6.33,1,0,1,"NA",0,1,0,1,3,0,7
+"a0C610000037lzP","OMEA Telecom (SFR-Red Community)",0.21,0,0,1,"EMEA",1,0,0,1,7,1,4
+"a0C00000002EtCd","Media-Saturn #3 redcoon",3.17,0,0,1,"EMEA",0,1,0,1,11,1,1
+"a0C00000003N1cE","Santander UK LSW",1.23,0,0,1,"EMEA",0,1,0,1,0,1,42
+"a0C00000002v2N5","Volia Limited LSW",1.9,0,0,1,"EMEA",0,1,0,1,1,1,19
+"a0C00000003Nfoc","Leclerc",0.57,0,0,1,"EMEA",0,1,0,1,3,1,1
+"a0C00000002EtCx","Media-Saturn MMCommunity",3.17,0,0,1,"EMEA",0,1,0,1,11,1,9
+"a0C00000002y1dD","TDC Telmore",1.64,1,0,1,"EMEA",1,0,0,2,2,1,13
+"a0C00000003NatY","Fox Sports Australia LSW",0.76,0,0,1,"APAC",1,0,0,1,0,1,1
+"a0C00000003NcEl","Foxtel Presto LSW",0.71,0,0,1,"APAC",0,1,0,1,0,1,1
+"a0C00000003N3RE","UPC Cablecom LSW",1.19,0,0,1,"EMEA",0,1,0,4,0,1,3
+"a0C00000003NjjZ","GrabTaxi LSW",0.44,0,0,1,"APAC",0,1,0,1,0,1,3
+"a0C610000037sHh","Axis Community",0.21,0,0,1,"APAC",1,0,0,1,6,1,1
+"a0C00000003NoKC","Pricelinecom Incorporated LSW",0.3,0,0,1,"NA",0,0,0,1,0,0,0
+"a0C00000003Nhdc","T-Systems Responsive Beta Program",0.5,0,0,1,"EMEA",0,1,0,1,9,0,0
+"a0C00000003NgbD","Acer Incorporated LSW",0.54,0,0,1,"APAC",1,0,0,1,0,0,0
+"a0C00000003NeRn","CBA Commsec LSW",0.62,0,0,1,"APAC",1,0,0,1,0,0,0
+"a0C00000003N7wn","Medion AG LSW",1.11,0,0,1,"EMEA",0,0,1,1,0,0,0
+"a0C00000003NedX","Hofer KG",0.61,0,0,1,"EMEA",0,1,0,1,7,1,0
+"a0C00000003Nnfr","Visma Group",0.32,0,0,1,"EMEA",1,0,0,1,4,1,0
+"a0C00000002mYFd","Migros Genossenschafts Bund",2.4,1,0,1,"EMEA",0,1,0,3,9,1,100
+"a0C00000000VFUK","AT&T Business Services",5.13,0,0,1,"NA",1,0,0,1,5,1,215
+"a0C00000002RlS4","Commonwealth Bank of Australia - Netbank",2.96,1,0,1,"APAC",1,0,0,1,5,1,64
+"a0C00000003Mr3k","NETGEAR, Inc.",1.38,1,0,0,"NA",0,1,0,1,6,1,76
+"a0C00000002Ixwc","Globe Telecom LSW",3.07,0,0,1,"APAC",0,1,0,1,0,0,410
+"a0C00000002Ixwc","Globe Telecom LSW",3.07,0,0,1,"APAC",0,1,0,1,0,0,410
+"a0C00000002yW20","Standard Bank",1.6,1,0,0,"EMEA",1,0,0,1,9,1,65
+"a0C00000000Ex5L","Meredith - Agriculture.com",6.18,1,0,1,"NA",0,1,0,1,2,1,118
+"a0C00000003MBtN","TE Data LSW",1.48,0,0,0,"EMEA",0,1,0,1,0,1,40
+"a0C00000000Djlt","AT&T devCentral",7.58,1,0,1,"NA",1,0,0,1,1,1,126
+"a0C00000002TtpK","FoxTel Community",2.91,1,0,1,"APAC",0,1,0,1,2,1,119
+"a0C00000002WT5X","OMEA Telecom (Virgin Mobile FR) LSW",2.85,0,0,1,"EMEA",0,1,0,1,0,1,22
+"a0C00000002uu5v","Digi.Com Berhad LSW",1.92,0,0,1,"APAC",0,1,0,1,0,1,65
+"a0C00000003NWtD","Australian Taxation Office LSW",0.9,0,0,0,"APAC",0,1,0,1,0,1,19
+"a0C00000002mYFi","Fox Sports Australia",2.4,1,0,1,"APAC",1,0,0,1,2,1,131
+"a0C00000000Dg6y","BT Business",8,0,0,1,"EMEA",1,0,0,1,4,1,186
+"a0C00000002WT5S","OMEA Telecom (Virgin Mobile FR) Support Community",2.85,0,0,1,"EMEA",0,1,0,1,5,1,53
+"a0C00000003NEca","GoPro LSW",1.06,0,0,0,"NA",0,1,0,1,0,1,4
+"a0C00000001n4Q7","Indosat iCity Community",3.78,0,0,1,"APAC",1,0,0,2,10,1,86
+"a0C00000003NM6b","Saudi Telecom",1.02,0,0,0,"EMEA",0,1,0,1,8,1,10
+"a0C00000002LmPP","Meredith Parents Community",3.01,0,0,1,"NA",0,1,0,1,2,0,39
+"a0C0000000333yK","Box.com",1.57,1,1,0,"NA",0,1,0,1,6,1,52
+"a0C00000002e9ex","Indosat Tek Tok Community",2.66,1,0,1,"APAC",1,0,0,2,7,0,2
+"a0C00000003Mwtg","Digi Berhad",1.32,1,0,1,"APAC",0,1,0,1,4,1,37
+"a0C00000002nHXk","FoxTel LSW",2.32,0,0,1,"APAC",0,1,0,1,0,1,49
+"a0C00000003Mq5m","Belcorp",1.42,1,0,0,"LATAM",0,1,0,1,5,1,30
+"a0C00000002FGgw","Globe Telecom Community",3.16,0,0,1,"APAC",0,1,0,1,6,0,112
+"a0C00000003NnYS","Standard Bank LSW",0.32,0,0,0,"EMEA",1,0,0,1,0,1,7
+"a0C00000003NmGi","Weebly",0.37,0,0,0,"NA",0,1,0,1,4,1,5
+"a0C00000003Mr3p","NETGEAR, Inc. LSW",1.38,0,0,0,"NA",0,1,0,1,1,1,9
+"a0C00000002HTOB","Siemens PLM",3.1,0,0,1,"NA",0,1,0,2,8,1,144
+"a0C00000003M2Xu","Cambium Networks",1.49,1,0,0,"NA",0,0,1,6,5,1,26
+"a0C00000002Trmk","Migros (LSW)",2.92,0,0,1,"EMEA",0,1,0,1,0,1,33
+"a0C00000003NM6W","Saudi Telecom LSW",1.02,0,0,0,"EMEA",0,1,0,1,0,1,10
+"a0C00000003MpeO","Bright House Networks LSW",1.43,0,0,0,"NA",0,1,0,1,0,1,43
+"a0C00000002mqBX","ATT Dev2",2.37,0,0,1,"NA",1,0,0,1,1,0,16
+"a0C00000000Ex5Q","Meredith - LHJ.com",6.18,0,0,1,"NA",0,1,0,1,0,0,6
+"a0C00000002FAVc","Samsung Electronics Italia",3.16,0,0,1,"EMEA",0,1,0,1,4,1,28
+"a0C00000003MuzP","AMC Theatres LSW (new)",1.34,0,0,0,"NA",0,0,1,1,0,1,36
+"a0C00000002e353","BT Group LSW",2.66,0,0,1,"EMEA",1,0,0,1,0,0,8
+"a0C00000003NY11","Sitel Corporation Lenovo Brazil LSW",0.88,0,0,0,"NA",0,1,0,1,0,1,1
+"a0C0000000331AU","Manta Media Inc.",1.57,0,0,0,"NA",0,0,1,1,2,1,29
+"a0C00000003NZjb","H&R Block - Internal Community",0.82,1,1,1,"NA",0,1,0,1,4,1,3
+"a0C00000003Mbmo","AmBank Berhad",1.46,0,0,0,"APAC",0,1,0,1,4,1,11
+"a0C00000003NFZq","viagogo LSW",1.06,0,0,0,"EMEA",0,0,1,1,0,0,1
+"a0C00000003MqTV","Protoculture LLC",1.4,0,0,0,"NA",0,0,1,7,10,0,5
+"a0C000000033EIp","McKesson Corporation",1.55,0,0,0,"NA",0,0,1,1,6,1,7
+"a0C00000003MqTa","Protoculture LLC LSW",1.4,0,0,0,"NA",0,0,1,7,0,0,1
+"a0C00000003MYj6","ORES",1.46,0,0,0,"EMEA",0,0,1,1,2,0,4
+"a0C00000003NEcf","Hortonworks",1.06,0,1,0,"NA",0,1,0,1,4,1,1
+"a0C00000003NVl4","Wine Community",0.95,0,0,0,"EMEA",0,0,0,5,7,0,3
+"a0C00000003NnVo","Nextbit",0.33,0,0,0,"NA",0,1,0,1,4,1,3
+"a0C00000003NnYr","Lycamobile UK Limited",0.32,0,0,0,"APAC",0,1,0,34,5,1,0
+"a0C00000003NoQv","Webroot LSW",0.29,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C61000003876q","Yahoo! Community",0.19,0,0,0,"NA",0,1,0,1,4,1,0
+"a0C00000003MqwR","Blizzard Entertainment LSW",1.38,0,0,0,"NA",0,1,0,1,0,0,0
+"a0C610000037k5u","Avaya Inc LSW Trial",0.21,0,0,0,"NA",0,0,0,1,0,1,0
+"a0C00000002yaqO","Rackspace LSW",1.59,0,0,0,"NA",0,0,1,1,0,0,0
+"a0C00000003NnhY","American Honda Motor Co Inc",0.32,0,0,0,"NA",1,0,0,1,4,1,0
+"a0C00000003Nnvr","Assurant Inc",0.31,0,0,0,"NA",0,1,0,1,4,1,0
+"a0C00000003NKdA","Twitter (Unilever) Dove LSW",1.03,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000003No8F","Qualfon LSW",0.31,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000002yaGR","Fairmont Hotels LSW",1.59,0,0,0,"NA",0,0,1,1,0,0,0
+"a0C00000003NWpb","Etisalat Misr LSW",0.9,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C00000003NnS2","Square, Inc.",0.33,0,0,0,"NA",0,1,0,1,6,1,0
+"a0C00000003NZDG","Astro Malaysia LSW",0.85,0,0,0,"APAC",0,0,0,1,0,1,0
+"a0C00000003Msyp","Quicken Loans LSW",1.36,0,0,0,"NA",0,0,1,1,0,0,0
+"a0C00000003NWJR","Sanlam Group LSW",0.92,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C00000003NZKy","Fyusion, Inc LSW",0.84,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000003NoET","HDFC Ergo LSW (Consus Global)",0.31,0,1,0,"APAC",0,1,0,1,0,1,0
+"a0C00000003No0W","HDFC Ergo (Consus Global Pte.Ltd)",0.31,0,0,0,"APAC",0,1,0,1,4,1,0
+"a0C00000001MFc5","Orange Switzerland",4.22,0,0,0,"EMEA",0,1,0,4,7,0,92
+"a0C00000000UntG","Systems & Software",5.27,0,0,0,"NA",0,1,0,1,3,1,22
+"a0C00000002neFG","Silicon Laboratories Inc.",2.27,1,0,0,"NA",0,1,0,2,4,1,185
+"a0C00000003MzoK","TELUS Public Mobile",1.26,0,0,0,"NA",0,1,0,1,5,1,18
+"a0C00000002wadJ","National Bank of Kuwait LSW",1.74,0,0,0,"EMEA",1,0,0,1,0,1,116
+"a0C00000002vo12","NetApp, Inc.",1.82,1,0,0,"NA",1,0,0,1,6,1,151
+"a0C00000003N6Hc","ING Direct Italy",1.13,1,1,0,"EMEA",0,1,0,1,3,1,15
+"a0C00000001Mr0D","Elisa",4.2,0,0,0,"EMEA",0,1,0,1,5,1,164
+"a0C00000000Dh5N","LogMeIn",7.9,1,0,0,"NA",0,1,0,1,3,1,198
+"a0C00000002vnkV","DTAC Total Access Communications PLC",1.82,1,0,0,"APAC",0,0,1,1,3,1,26
+"a0C00000002o5xu","McDonald's Corporation LSW",2.2,0,0,0,"NA",0,1,0,1,0,0,71
+"a0C00000001MfQm","Visa",4.2,1,0,0,"NA",0,1,0,1,2,1,44
+"a0C00000000EV90","Acuity Community",6.35,1,0,0,"NA",0,1,0,1,5,1,241
+"a0C00000000DgNG","Salesforce.com Discussion Boards",7.98,0,0,0,"NA",0,1,0,2,0,0,165
+"a0C00000003NEZ9","Tealium, Inc.",1.07,1,1,0,"NA",0,1,0,1,7,1,44
+"a0C00000002b4N1","Whataburger LSW",2.74,0,0,0,"NA",0,1,0,1,0,0,35
+"a0C00000002b4N1","Whataburger LSW",2.74,0,0,0,"NA",0,1,0,1,0,1,35
+"a0C00000003NEcV","GoPro",1.06,1,1,0,"NA",0,1,0,1,7,1,17
+"a0C00000002nfUY","MoneyGram International LSW",2.27,0,0,0,"NA",0,1,0,1,0,1,50
+"a0C00000003Myeg","United States Postal Service LSW",1.29,0,0,0,"NA",0,1,0,1,0,1,16
+"a0C00000003NEQY","Bunnings",1.07,0,0,0,"APAC",1,0,0,1,4,1,26
+"a0C00000000Ebb7","Mozy Support Community",6.29,1,0,0,"NA",1,0,0,1,4,1,249
+"a0C00000003NESY","Persistent",1.07,0,0,0,"NA",0,1,0,1,5,1,47
+"a0C00000003Nd8Q","Telkom Group",0.67,0,1,0,"EMEA",0,1,0,1,9,1,6
+"a0C00000000Dh4j","Swiftpage SalesLogix",7.9,0,0,0,"NA",0,1,0,1,2,1,72
+"a0C00000003N6Hh","ING Direct Italy LSW",1.13,0,0,0,"EMEA",0,1,0,1,0,1,3
+"a0C00000000Dfez","T-Mobile Community Forums",8.03,0,0,0,"NA",0,0,0,2,2,0,154
+"a0C00000000Dddj","Redfin",8.22,0,0,0,"NA",0,1,0,1,0,1,85
+"a0C00000001NAYi","Hobson Naviance",4.19,1,0,0,"NA",0,1,0,1,5,1,110
+"a0C00000003NBsw","Hilton International LSW",1.08,0,0,0,"NA",0,0,1,1,0,1,34
+"a0C00000003NEZJ","CARFAX",1.07,1,1,0,"NA",0,1,0,1,7,1,9
+"a0C00000000ECDC","Trend Consumer Support Community",6.7,1,0,0,"NA",0,1,0,2,4,0,228
+"a0C00000002novP","Belkin Corporation",2.25,1,0,0,"NA",0,1,0,1,4,1,39
+"a0C00000002novZ","Belkin LSW",2.25,0,0,0,"NA",0,1,0,1,0,1,89
+"a0C00000000EgyI","SlimGenicsHome",6.25,1,0,0,"NA",0,1,0,1,4,0,27
+"a0C00000000EgyH","Slimgenics.com",6.25,1,0,0,"NA",0,1,0,1,3,0,69
+"a0C00000000Dgc1","Peachtree",7.95,0,0,0,"NA",0,0,0,1,0,0,18
+"a0C00000000Uj7D","Bank-Fund Staff Federal Credit Union",5.29,1,0,0,"NA",0,1,0,1,5,1,34
+"a0C00000002YPNl","Weight Watchers LSW (Teletech)",2.8,0,0,0,"NA",1,0,0,1,0,0,30
+"a0C00000002YPNl","Weight Watchers LSW (Teletech)",2.8,0,0,0,"NA",1,0,0,1,0,0,30
+"a0C00000002dhmF","CA Snowshoe Community (Nimsoft)",2.67,0,0,0,"NA",0,1,0,1,5,1,11
+"a0C00000000Dfeb","TV Land",8.03,0,0,0,"NA",0,0,0,1,0,0,3
+"a0C00000000DfRb","Daily Show",8.05,1,0,0,"NA",0,0,0,1,3,0,5
+"a0C00000000UsW7","Barnes& Noble - Nook",5.24,0,0,0,"NA",0,1,0,1,3,0,3
+"a0C00000001Mg4J","Codemasters",4.2,1,0,0,"EMEA",0,0,0,1,5,0,40
+"a0C00000000Uy1w","Marinemax",5.22,0,0,0,"NA",0,0,0,1,3,0,80
+"a0C00000000EBQf","Aflac Accounts Community",6.72,0,0,0,"NA",0,0,0,1,0,0,5
+"a0C00000000Dfel","Coverity",8.03,1,0,0,"NA",0,0,0,1,3,0,2
+"a0C00000001LOU7","NComputing",4.24,0,0,0,"NA",0,1,0,1,3,0,20
+"a0C00000000DhCT","VH1",7.9,1,0,0,"NA",0,0,0,1,1,0,1
+"a0C00000001IJwy","Nissan Infiniti JX",4.34,0,0,0,"NA",0,0,0,1,5,0,12
+"a0C00000003NDq6","ABSA Bank LSW",1.07,0,0,0,"EMEA",0,1,0,1,0,1,7
+"a0C00000003NfoS","Zuora",0.57,0,1,0,"NA",0,1,0,1,5,1,5
+"a0C00000003NgO4","Redbubble LSW",0.55,0,0,0,"NA",0,1,0,1,0,1,1
+"a0C00000003NfIn","MLB Advanced Media LSW",0.58,0,0,0,"NA",0,0,0,1,0,0,2
+"a0C00000003NCx1","Majed AlFuttaim Retail Shifra Carrefour LSW",1.07,0,0,0,"EMEA",0,1,0,1,0,1,20
+"a0C00000003NCEm","Momentum LSW",1.08,0,0,0,"EMEA",0,0,1,1,0,1,1
+"a0C00000003N2vV","Smartfren Telecom LSW",1.21,0,0,0,"APAC",1,0,0,1,0,0,3
+"a0C00000002oCqA","L TELECOM",2.19,1,0,0,"EMEA",0,1,0,1,1,1,3
+"a0C00000003NeVu","Bank of New Zealand LSW",0.62,0,0,0,"APAC",0,1,0,1,0,1,1
+"a0C00000003NfJC","JustFab LSW",0.58,0,0,0,"NA",0,1,0,1,0,1,2
+"a0C00000000Dfea","Sales Genius",8.03,1,0,0,"NA",0,0,0,1,1,0,0
+"a0C00000000DgV0","RingCube",7.96,1,0,0,"NA",0,0,0,1,1,0,0
+"a0C00000002wb7m","DTAC LSW",1.74,0,0,0,"APAC",0,0,1,1,0,0,0
+"a0C00000003NeRi","Sane.org LSW",0.62,0,0,0,"APAC",0,1,0,1,0,1,0
+"a0C00000003N56n","NOS Portugal LSW",1.13,0,0,0,"EMEA",0,0,1,1,0,0,0
+"a0C00000003NEZE","Tealium, Inc. LSW",1.07,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000003N7FR","Super Retail Group LSW",1.13,0,0,0,"APAC",0,0,1,1,0,0,0
+"a0C00000003NfMB","Intact Insurance Company LSW",0.58,0,0,0,"NA",0,0,0,1,0,1,0
+"a0C00000003Nfgo","Majed AlFuttaim Retail",0.57,0,0,0,"EMEA",0,1,0,1,6,1,0
+"a0C00000003Nfiz","Western Governors University",0.57,0,1,0,"NA",1,0,0,1,6,1,0
+"a0C00000003Nchf","LSW - Department of Human Services",0.69,0,0,0,"APAC",0,1,0,1,0,1,21
+"a0C00000003NZjl","RelayHealth",0.82,1,1,0,"NA",0,1,0,1,6,1,32
+"a0C00000000EO5W","Western Digital - Support Community",6.42,0,0,0,"NA",0,1,0,1,3,0,241
+"a0C00000002p37A","Optimizely",2.07,1,0,0,"NA",0,1,0,1,4,1,211
+"a0C00000000DgDp","Linksys",8,1,0,0,"NA",0,1,0,3,3,1,174
+"a0C00000003Na4W","Thumbtack LSW",0.81,0,0,0,"NA",0,1,0,1,0,1,24
+"a0C000000025REZ","Brightree",3.41,1,0,0,"NA",0,1,0,1,4,1,26
+"a0C00000001B3as","Webroot",4.44,1,0,0,"NA",0,1,0,1,7,1,296
+"a0C00000000DgKM","FranklinCovey's GO Community",7.98,1,0,0,"NA",0,0,0,1,3,0,26
+"a0C00000000DgD6","Juniper Networks",8,0,0,0,"NA",0,1,0,5,4,1,321
+"a0C00000000DgCr","RSA enVision",8,0,0,0,"NA",0,0,0,1,0,0,69
+"a0C00000003Mxef","SmartBear",1.32,0,0,0,"NA",0,0,1,1,4,1,61
+"a0C00000003NcGN","ENTEL LSW",0.71,0,0,0,"LATAM",0,1,0,1,0,1,21
+"a0C00000001CBKU","SuccessFactors",4.41,1,0,0,"NA",0,1,0,1,8,1,350
+"a0C00000002uyCo","Konica Minolta LSW",1.92,0,0,0,"NA",0,1,0,1,0,1,14
+"a0C00000002girT","Etisalat Nigeria LSW",2.59,0,0,0,"EMEA",0,1,0,1,0,1,34
+"a0C000000025Df4","AppDynamics",3.42,1,0,0,"NA",0,1,0,1,7,1,147
+"a0C00000000DgD1","Barnes & Noble - Book Clubs",8,0,0,0,"NA",0,1,0,1,3,0,266
+"a0C00000000EPa5","Calix Networks",6.41,1,0,0,"NA",0,1,0,1,3,1,94
+"a0C00000000EDZ8","AAA Auto Club South",6.66,1,0,0,"NA",0,1,0,1,4,1,54
+"a0C00000001CBJQ","CLEAR Support Forums",4.41,1,0,0,"NA",1,0,0,1,6,0,77
+"a0C00000000DgDQ","Adult Swim",8,0,0,0,"NA",0,1,0,1,1,0,163
+"a0C00000000DgDa","CA",8,0,0,0,"NA",0,0,0,1,1,0,30
+"a0C00000000EOam","Harvard Publishing Initial Community",6.41,1,0,0,"NA",0,0,0,1,3,0,19
+"a0C00000000EPaK","Rapattoni Corporation",6.41,0,0,0,"NA",0,1,0,1,1,0,17
+"a0C00000000EOYW","Dice.com",6.42,1,0,0,"NA",0,0,0,1,8,0,132
+"a0C00000000EPst","Omniture Ideas",6.4,1,0,0,"NA",0,1,0,2,2,1,29
+"a0C00000000DgGP","Lombardi",7.99,1,0,0,"NA",0,0,0,1,1,0,2
+"a0C00000002vMl4","Samsung Australia LSW",1.87,0,0,0,"APAC",0,0,1,1,0,0,17
+"a0C00000002oYOH","Electronic Arts LSW",2.12,0,0,0,"NA",0,1,0,1,0,1,86
+"a0C00000002uyCj","Stella and Dot",1.92,1,0,0,"NA",0,0,1,1,8,0,16
+"a0C00000002h2ju","Cross Media Interactive LSW",2.58,0,0,0,"LATAM",0,1,0,1,0,0,4
+"a0C00000002h2ju","Cross Media Interactive LSW",2.58,0,0,0,"LATAM",0,1,0,1,0,1,4
+"a0C00000000ENJX","Sophos - Free Tools",6.44,0,0,0,"EMEA",0,1,0,1,1,0,20
+"a0C000000022b8h","Simple Mobile - B2C",3.49,0,0,0,"NA",0,1,0,1,8,0,10
+"a0C00000001BWUi","nCircle",4.43,1,0,0,"NA",0,1,0,1,6,0,86
+"a0C00000000EPIh","Survey Monkey",6.41,1,0,0,"NA",0,0,0,1,4,0,5
+"a0C00000001BqSA","Telef??????????????????????_??_nica de Argentina Movistar",4.42,0,0,0,"LATAM",1,0,0,1,5,0,61
+"a0C00000000EO5b","Vindicia",6.42,0,0,0,"NA",0,0,0,1,1,0,9
+"a0C000000025SHM","Landlord Station",3.41,0,0,0,"NA",0,1,0,1,4,0,17
+"a0C00000000EDzD","AAA Outdoor Junkies",6.64,0,0,0,"NA",0,0,0,1,1,0,3
+"a0C00000000DgDf","iRobot Home",8,1,0,0,"NA",0,0,0,1,1,0,5
+"a0C00000000DgDk","iRobot Create",8,1,0,0,"NA",0,0,0,1,1,0,3
+"a0C000000021qS3","Seagate",3.51,1,0,0,"NA",0,1,0,1,3,0,16
+"a0C00000002f9LI","MySpace LSW",2.63,0,0,0,"NA",0,1,0,1,0,0,4
+"a0C00000001CtWv","WDS Radioshack",4.38,1,0,0,"NA",0,1,0,1,3,0,79
+"a0C00000000hVr2","Semana - Soho",4.96,0,0,0,"LATAM",0,0,0,2,3,0,11
+"a0C00000000hVqs","Semana 3 - Comunidad Semana",4.96,0,0,0,"LATAM",0,0,0,2,3,0,28
+"a0C00000000hVrg","Cocina",4.96,0,0,0,"LATAM",0,0,0,2,3,0,30
+"a0C00000000DgDB","CyberSource",8,0,0,0,"NA",0,1,0,1,0,0,8
+"a0C00000000hVr7","Semana - Dinero",4.96,0,0,0,"LATAM",0,0,0,1,3,0,19
+"a0C00000000hVrb","Semana 8 Finanzaspersonales",4.96,0,0,0,"LATAM",0,0,0,2,3,0,26
+"a0C00000000DgGQ","Sprint - Buzz About Wireless",7.99,1,0,0,"NA",0,0,0,1,1,0,3
+"a0C00000000hVqx","Semana - Semana Blog",4.96,0,0,0,"LATAM",0,0,0,1,3,0,13
+"a0C00000000hVrq","Semana 10 Jetset",4.96,0,0,0,"LATAM",0,0,0,2,3,0,17
+"a0C00000000hVrl","Semana 9 (RevistaFucsia)",4.96,0,0,0,"LATAM",0,0,0,2,3,0,10
+"a0C00000001BugX","GolinHarris - Corporate Blogs",4.41,0,0,0,"NA",0,1,0,1,2,0,18
+"a0C000000020wbp","Big Fish Games",3.53,1,0,0,"NA",0,1,0,1,3,0,30
+"a0C00000003NZlH","SteelBrick",0.82,1,1,0,"NA",0,1,0,1,4,1,11
+"a0C00000003Nlok","Sitel-Phillippines-hr LSW",0.38,0,0,0,"NA",0,1,0,1,0,1,1
+"a0C00000003Nd0L","Move, Inc.",0.68,1,0,0,"NA",0,1,0,1,4,1,4
+"a0C00000002v2Mq","Bank of New Zealand",1.9,0,0,0,"APAC",0,1,0,1,2,1,53
+"a0C00000003Mxea","Magento, Inc.",1.32,1,0,0,"NA",0,1,0,1,5,1,22
+"a0C00000002v2NF","Ancestry.com LSW",1.9,0,0,0,"NA",0,1,0,1,3,0,11
+"a0C00000002vZFw","Caterpillar LSW",1.84,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000002v2NA","Ancestry.com",1.9,0,0,0,"NA",0,1,0,1,7,0,0
+"a0C00000002oXU8","Canadian Tire Corporation LSW",2.12,0,0,0,"NA",0,1,0,1,0,0,0
+"a0C00000003MyKH","Twitter LSW",1.3,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000003NZlM","SteelBrick LSW",0.82,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000003NaAD","African Bank LSW",0.8,0,0,0,"EMEA",0,0,1,1,0,1,0
+"a0C00000003Nm5q","pressrelations GmbH LSW",0.37,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C00000001NVCH","Electronic Arts - Customer Experience",4.18,1,0,0,"NA",0,1,0,6,7,1,321
+"a0C00000001vdTJ","Time Warner Cable",3.66,1,0,0,"NA",0,1,0,1,4,1,79
+"a0C00000000VBnH","Virgin Atlantic",5.15,0,0,0,"EMEA",1,0,0,1,9,1,73
+"a0C00000000DgCh","Spatial Community",8,1,0,0,"NA",0,1,0,2,2,1,30
+"a0C00000000ECg0","Jigsaw Community",6.69,1,0,0,"NA",0,1,0,1,5,1,253
+"a0C00000001vr3T","Petco",3.66,1,0,0,"NA",0,1,0,1,5,1,83
+"a0C00000003NZjM","Alteryx",0.82,1,1,0,"NA",0,1,0,1,7,1,58
+"a0C00000003NkqS","Big W LSW",0.41,0,0,0,"APAC",0,1,0,1,0,1,3
+"a0C00000000UAc3","Constant Contact",5.39,0,0,0,"NA",1,0,0,1,3,1,281
+"a0C00000002e9HU","NRMA Motoring & Services - LSW",2.66,0,0,0,"APAC",0,1,0,1,0,0,32
+"a0C00000002e9HU","NRMA Motoring & Services - LSW",2.66,0,0,0,"APAC",0,1,0,1,0,1,32
+"a0C00000000E5Pe","Authorize.Net Developers Community",6.92,0,0,0,"NA",0,1,0,1,3,1,89
+"a0C000000011nF4","American Diabetes Association",4.6,1,0,0,"NA",0,1,0,1,4,1,122
+"a0C00000002mYGM","Open Table - Restaurant",2.4,1,0,0,"NA",0,1,0,5,5,1,53
+"a0C00000000FV55","ZipRealty, Inc.",6.02,1,0,0,"NA",0,1,0,1,7,1,79
+"a0C00000002oMiv","Domo",2.15,0,0,0,"NA",1,0,0,2,5,1,82
+"a0C00000002oMiq","Nutanix",2.15,0,0,0,"NA",1,0,0,1,5,1,64
+"a0C00000000Dfyg","Ovi (formerly Twango)",8.01,1,0,0,"EMEA",0,0,0,1,1,0,4
+"a0C00000000Dfyg","Ovi (formerly Twango)",8.01,1,0,0,"EMEA",0,0,0,1,1,1,4
+"a0C00000002IBp3","Time Warner Cable LSW",3.09,0,0,0,"NA",0,1,0,1,1,1,216
+"a0C00000000DgCm","New Balance",8,0,0,0,"NA",0,0,0,1,2,0,10
+"a0C00000000DfzO","SRII",8.01,0,0,0,"NA",0,0,0,1,0,0,5
+"a0C00000000Dfz9","Nintendo's Tech Support Forums",8.01,1,0,0,"NA",0,0,0,1,1,0,23
+"a0C00000000Dfzd","Eloqua",8.01,0,0,0,"NA",0,0,0,1,2,0,4
+"a0C00000000U9br","Tomtom",5.4,1,0,0,"EMEA",1,0,0,3,4,0,193
+"a0C00000000VAeD","Bright Horizons",5.16,1,0,0,"NA",0,1,0,1,2,0,108
+"a0C00000002oMj0","Domo LSW",2.15,0,0,0,"NA",1,0,0,1,0,1,3
+"a0C00000000Dn9R","Intel Embedded Community",7.29,1,0,0,"NA",0,0,0,1,2,0,42
+"a0C00000001wFJ7","Pervasive - Support (initial)",3.65,0,0,0,"NA",0,1,0,1,4,0,119
+"a0C00000002e33z","Pentax Ricoh Imaging Community",2.66,0,0,0,"NA",0,1,0,1,2,1,14
+"a0C00000000E59h","Deltek Connect Customer Forums",6.93,1,0,0,"NA",0,1,0,1,1,1,59
+"a0C00000002n5Fe","Sane Community",2.34,0,0,0,"APAC",0,1,0,1,4,1,62
+"a0C00000002oMhd","IRENA",2.15,0,0,0,"EMEA",0,1,0,1,4,1,18
+"a0C00000000Dfxr","Filemaker (Bento)",8.01,0,0,0,"NA",0,0,0,1,0,0,1
+"a0C00000001NVCC","General Motors - AC Delco",4.18,1,0,0,"NA",0,1,0,1,2,1,40
+"a0C00000002oVNh","EA - Internal Developer Community",2.13,1,0,0,"NA",0,1,0,1,2,0,12
+"a0C00000002xPiU","Sutherland - Western Digital LSW End User",1.68,0,0,0,"NA",0,1,0,1,0,1,12
+"a0C00000001vqkw","Freesat",3.66,1,0,0,"EMEA",0,1,0,1,3,0,10
+"a0C00000001nUYp","Myspace - Support Community",3.77,1,0,0,"NA",0,1,0,1,7,0,105
+"a0C00000000h7jk","Macy's",4.98,0,0,0,"NA",1,0,0,1,3,0,152
+"a0C00000001oWiF","Sagepath (NAPAOnline Community)",3.74,1,0,0,"NA",0,1,0,1,3,0,8
+"a0C00000000WKsq","NTTCom",5.07,1,0,0,"APAC",0,1,0,1,5,0,152
+"a0C00000002HfDB","Hooters - Internal Hooters Girls Community",3.1,0,0,0,"NA",0,1,0,1,5,0,3
+"a0C00000002MsAv","Acticall (End User EDF) Social Web",2.98,0,0,0,"EMEA",1,0,0,1,0,0,41
+"a0C00000003Ni15","Go Daddy Software, Inc.",0.48,1,1,0,"NA",0,1,0,1,4,1,3
+"a0C00000000Dg3a","Freescale",8,1,0,0,"NA",0,0,0,1,1,0,18
+"a0C00000002TBsG","Convio LSW (Blackbaud)",2.93,0,0,0,"NA",0,1,0,1,0,0,10
+"a0C00000002e9dp","Northwestern Memorial Hospital Community",2.66,0,0,0,"NA",0,1,0,1,1,0,7
+"a0C00000000DnHz","Safeway Inc. - Randalls",7.28,0,0,0,"NA",0,0,0,1,2,0,4
+"a0C00000002oKTC","Shifra Deniz Bank LSW",2.15,0,0,0,"EMEA",0,1,0,1,0,1,37
+"a0C00000002oKTC","Shifra Deniz Bank LSW",2.15,0,0,0,"EMEA",0,1,0,1,0,1,37
+"a0C00000002mqBN","Trend Micro LSW",2.37,0,0,0,"NA",0,1,0,1,0,0,2
+"a0C00000000VBWe","Cincinnati Bell",5.15,0,0,0,"NA",0,0,0,1,3,0,25
+"a0C00000003NZj7","Alteryx LSW",0.82,0,0,0,"NA",0,1,0,1,0,1,2
+"a0C00000000hVqn","Semana 2 - Plan B",4.96,0,0,0,"LATAM",0,0,0,2,3,0,8
+"a0C00000002n3J3","Toshiba LSW",2.34,0,0,0,"NA",0,1,0,1,0,1,4
+"a0C00000002n3JD","Petco LSW",2.34,1,0,0,"NA",0,1,0,1,0,1,37
+"a0C00000002oNyI","NetSuite Inc.LSW",2.14,0,0,0,"NA",0,1,0,1,0,1,2
+"a0C00000003NZjW","AMP Services Ltd",0.82,0,1,0,"APAC",0,1,0,1,2,1,3
+"a0C00000003NZcI","Wine Community dev",0.83,0,0,0,"EMEA",0,0,0,1,7,0,1
+"a0C00000003NktG","PhishMe",0.4,0,0,0,"NA",0,1,0,1,4,1,4
+"a0C00000003Nhhi","Advent Software, Inc. LSW",0.49,0,0,0,"NA",1,0,0,1,0,0,1
+"a0C00000000DfzJ","RNT Demo",8.01,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000000DfzY","TPSA",8.01,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000003NiL8","Ariba, Inc.",0.48,0,0,0,"NA",1,0,0,1,6,1,0
+"a0C00000002TBsL","C3 LSW",2.93,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000002TBsL","C3 LSW",2.93,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000003N7dv","Nutanix LSW",1.13,0,0,0,"NA",1,0,0,1,0,0,0
+"a0C00000003NksE","Banco de Credito del Peru, BCP LSW",0.41,0,0,0,"LATAM",0,1,0,1,0,1,0
+"a0C00000003Nk6R","Liberty Holdings LSW",0.42,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C00000003NiwI","Fasttelco LSW",0.46,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C00000002FATW","Yahoo! - LSW",3.16,0,0,0,"NA",0,1,0,1,0,0,214
+"a0C00000002FATW","Yahoo! - LSW",3.16,0,0,0,"NA",0,1,0,1,0,1,214
+"a0C00000000vvGC","Eircom - Meteor",4.64,0,0,0,"EMEA",0,1,0,1,5,0,39
+"a0C00000000TkvU","IHG Priority Club",5.51,0,0,0,"NA",1,0,0,1,3,0,60
+"a0C00000002FjRj","SAP Mobile (Sybase) Community",3.15,0,0,0,"NA",0,1,0,1,3,1,63
+"a0C00000000U1zO","Polycom",5.43,1,0,0,"NA",1,0,0,1,5,1,335
+"a0C00000000TxlE","Docusign",5.45,0,0,0,"NA",0,1,0,1,4,1,189
+"a0C00000002CHeJ","Edifecs Community",3.24,1,0,0,"NA",0,1,0,1,6,0,72
+"a0C00000002FjRe","TELUS LSW",3.15,0,0,0,"NA",0,1,0,1,1,1,240
+"a0C00000001B3Zw","YouSendIt",4.44,1,0,0,"NA",0,1,0,1,7,0,211
+"a0C00000002hbqS","Warner Brothers Entertainment",2.51,1,0,0,"NA",0,1,0,1,9,1,61
+"a0C00000002U82q","CloudERA",2.91,1,0,0,"NA",0,1,0,1,4,1,81
+"a0C00000000Dg6P","Pitney Bowes",8,1,0,0,"NA",0,1,0,1,4,1,78
+"a0C00000002FXS3","Advent Software",3.15,1,0,0,"NA",1,0,0,1,9,1,158
+"a0C00000002D1Fx","Bibob - CBB",3.22,0,0,0,"EMEA",0,1,0,1,4,0,24
+"a0C00000001dwIt","Demandforce Initial Community",3.92,1,0,0,"NA",0,1,0,1,4,0,213
+"a0C00000002mG0i","Clarins Marketing Community",2.44,1,0,0,"EMEA",0,1,0,5,5,0,46
+"a0C00000000Dg6t","Xilinx User Community Forums",8,0,0,0,"NA",0,1,0,2,1,1,307
+"a0C00000000Dg6o","Swiftpage (Sage) - ACT!",8,0,0,0,"NA",0,1,0,1,2,1,133
+"a0C00000002HEln","Homegate Community",3.11,1,0,0,"EMEA",0,1,0,4,3,0,59
+"a0C00000002mYGC","Open Table - Diners",2.4,0,0,0,"NA",0,1,0,5,5,1,41
+"a0C00000002W7vh","Telus Consumer Community",2.86,0,0,0,"NA",0,1,0,2,6,1,105
+"a0C00000000DikG","National Mentoring Partnership",7.71,0,0,0,"NA",0,0,0,1,1,0,16
+"a0C00000001B3Bb","Aruba",4.44,0,0,0,"NA",0,1,0,1,7,1,257
+"a0C00000002m7zF","Micron Technology Inc - LSW",2.46,0,0,0,"NA",0,1,0,1,0,1,33
+"a0C00000000DkvS","Toshiba Laptops",7.45,1,0,0,"NA",0,1,0,2,4,1,75
+"a0C00000001UZm4","Pet360",4.08,1,0,0,"NA",0,1,0,1,8,0,243
+"a0C00000001lYAL","Guitar Center Initial Community",3.83,1,0,0,"NA",0,1,0,1,9,0,134
+"a0C00000002HMrI","HBO Fan Community",3.1,1,0,0,"NA",0,1,0,1,6,1,17
+"a0C00000000TyCn","IHG Global Technologies",5.45,0,0,0,"NA",1,0,0,1,2,0,62
+"a0C00000000DmZx","inContact",7.37,1,0,0,"NA",0,0,0,1,2,0,70
+"a0C00000000Dkl3","Upromise",7.47,1,0,0,"NA",0,0,0,1,6,0,135
+"a0C00000000DjIw","Buffalo Technology Cust. Support",7.65,0,0,0,"NA",0,0,0,1,1,0,31
+"a0C00000000Dhqi","Filemaker Support",7.82,0,0,0,"NA",0,0,0,1,0,0,12
+"a0C00000000ExzF","MyAllscripts",6.18,1,0,0,"NA",0,0,0,1,5,0,62
+"a0C00000000Dg7D","Thomson Scientific",8,0,0,0,"NA",0,1,0,1,0,1,53
+"a0C00000000Ey4Q","Pharmacy Onesource",6.17,1,0,0,"NA",0,1,0,1,4,1,65
+"a0C00000000DmGb","Corptax Connect",7.41,1,0,0,"NA",0,0,0,1,3,0,29
+"a0C00000000E42L","Barnes & Noble - B&N Review",6.96,1,0,0,"NA",0,1,0,1,3,0,101
+"a0C00000000DmaR","Safeway Inc. - Brand Loyalty & Marketing",7.37,0,0,0,"NA",0,0,0,1,2,0,56
+"a0C00000000vvGH","Eircom - Forum",4.64,0,0,0,"EMEA",0,1,0,1,5,0,60
+"a0C00000000Dg7S","Flying",8,0,0,0,"NA",0,0,0,1,0,0,9
+"a0C00000000E00o","GOA Warhammer",7.07,1,0,0,"EMEA",0,0,0,5,4,0,5
+"a0C00000000DilT","Sage Value Business Unit, Customer",7.7,0,0,0,"NA",0,0,0,1,0,0,21
+"a0C00000000E4dJ","Caterpillar - Internal Community",6.95,0,0,0,"NA",0,1,0,1,0,1,6
+"a0C00000000E3u7","Ixia- Support Community",6.97,1,0,0,"NA",0,0,0,1,3,0,9
+"a0C00000001eJox","Ford Asia",3.91,1,0,0,"APAC",1,0,0,6,3,1,76
+"a0C00000000vPMD","Servigistics",4.66,0,0,0,"NA",0,1,0,1,5,0,65
+"a0C00000000ThEV","AAA Mid-Atlantic",5.53,0,0,0,"NA",0,0,0,1,3,0,90
+"a0C00000000E3bV","Aflac Associate Services",6.98,1,0,0,"NA",0,0,0,1,2,0,20
+"a0C00000001esoj","Tume (Standing on Giants) (Incubator 9)",3.89,1,0,0,"EMEA",0,1,0,2,5,0,45
+"a0C00000000Dg7X","RNT Developer",8,0,0,0,"NA",0,0,0,1,0,0,5
+"a0C00000000DmwX","TMTI - Sony Ericsson",7.32,0,0,0,"EMEA",0,0,0,1,1,0,2
+"a0C00000000Tkvy","PULSE Debit Protect Community",5.51,0,0,0,"NA",1,0,0,1,2,1,46
+"a0C00000000Tks6","taxavist.com",5.51,0,0,0,"NA",0,0,0,1,3,0,7
+"a0C00000001esoo","Viper (Standing on Giants) (Incubator 10)",3.89,1,0,0,"EMEA",0,1,0,1,5,0,50
+"a0C00000000Di7U","Serials Solutions",7.77,1,0,0,"NA",0,0,0,1,2,0,11
+"a0C00000000DiUE","Goal.com",7.72,1,0,0,"EMEA",0,0,0,1,3,0,1
+"a0C00000000vvGM","Eircom - eMobile",4.64,1,0,0,"EMEA",0,1,0,1,5,0,21
+"a0C00000001vVIh","Credit.com",3.67,1,0,0,"NA",0,0,0,1,6,0,23
+"a0C00000002hWdb","Arizona Diamondbacks (AZPB) LSW",2.52,0,0,0,"NA",0,1,0,1,0,0,3
+"a0C00000002hWdb","Arizona Diamondbacks (AZPB) LSW",2.52,0,0,0,"NA",0,1,0,1,0,0,3
+"a0C00000002FAVX","Seton LSW",3.16,0,0,0,"NA",0,1,0,1,1,0,9
+"a0C00000002FAVX","Seton LSW",3.16,0,0,0,"NA",0,1,0,1,1,0,9
+"a0C00000002UuaU","Reliance Home Comfort LSW",2.89,0,0,0,"NA",0,1,0,1,0,0,2
+"a0C00000002UuaU","Reliance Home Comfort LSW",2.89,0,0,0,"NA",0,1,0,1,0,0,2
+"a0C00000002WERP","Telus Consumer French Community",2.86,0,0,0,"NA",0,1,0,1,6,1,3
+"a0C00000002mYGH","Open Table LSW",2.4,0,0,0,"NA",0,1,0,1,0,1,4
+"a0C00000000DmIm","SanDisk SlotMusic",7.4,0,0,0,"NA",0,1,0,1,1,0,0
+"a0C00000000ExzA","Picarro",6.18,0,0,0,"NA",0,0,0,1,3,0,0
+"a0C00000002hbqm","Aruba Networks LSW",2.51,0,0,0,"NA",0,1,0,1,0,1,0
+"a0C00000000Fj1s","Xerox eServices",5.96,0,0,0,"NA",1,0,0,1,5,1,136
+"a0C00000001dcYA","Inspire Foundation - Initial",3.93,1,0,0,"APAC",0,1,0,1,6,1,91
+"a0C00000000Dg5C","SanDisk Sansa",8,0,0,0,"NA",0,1,0,4,8,1,73
+"a0C00000000Eohm","Ooyala - Support",6.21,0,0,0,"NA",0,1,0,2,4,1,134
+"a0C00000000GHlC","Centrify",5.78,0,0,0,"NA",0,1,0,1,3,1,117
+"a0C00000000E6oa","Sophos Talk",6.88,1,0,0,"EMEA",0,1,0,1,1,0,77
+"a0C00000000E7wB","Alstom Grid (Areva T&D)",6.84,0,0,0,"NA",0,1,0,1,1,1,109
+"a0C00000000Dnmt","Crucial - English",7.25,1,0,0,"NA",0,1,0,1,5,1,99
+"a0C00000000GMxj","Lulu Press",5.75,0,0,0,"NA",0,1,0,6,5,1,114
+"a0C00000000Djme","Caterpillar Inc. - Support",7.58,0,0,0,"NA",0,1,0,1,4,1,137
+"a0C00000000uaoe","SOASTA - Fremium",4.68,1,0,0,"NA",0,1,0,1,6,1,124
+"a0C00000000Dg4x","ResortCom",8,0,0,0,"NA",0,0,0,1,1,0,3
+"a0C00000000DhEt","Rockwell Automation",7.89,1,0,0,"NA",0,0,0,1,3,0,13
+"a0C00000000DgC8","Creative Labs",8,0,0,0,"NA",0,0,0,1,0,0,16
+"a0C00000000Dg4s","Real Networks",8,1,0,0,"NA",0,0,0,1,1,0,5
+"a0C00000000Dzwh","Aliph - Customer Support",7.08,0,0,0,"NA",0,1,0,1,0,0,116
+"a0C00000000Gg19","InsideView",5.65,0,0,0,"NA",0,1,0,1,4,0,89
+"a0C00000000Dg4i","PGP",8,0,0,0,"NA",0,0,0,1,0,0,7
+"a0C00000000DgCX","Allstate",8,0,0,0,"NA",0,0,0,1,2,0,2
+"a0C00000000Ga6U","Amdocs  Inc",5.68,0,0,0,"EMEA",0,1,0,1,2,1,161
+"a0C00000000DzPQ","Avnet - Support Community",7.09,1,0,0,"NA",0,1,0,1,2,1,36
+"a0C00000000Do3y","Ounce Labs, Inc. - Support",7.23,1,0,0,"NA",0,0,0,1,2,0,1
+"a0C00000001XWQt","Oracle",3.99,1,0,0,"NA",0,1,0,1,4,0,85
+"a0C00000001Ai9U","Convio",4.45,1,0,0,"NA",0,1,0,1,6,0,185
+"a0C00000000DgCc","ZoneAlarm",8,0,0,0,"NA",0,0,0,1,1,0,3
+"a0C00000000DhEy","Coral8",7.89,0,0,0,"NA",0,0,0,1,1,0,2
+"a0C00000000Do7U","Warhammer Online - Mythic",7.23,1,0,0,"NA",0,1,0,1,4,0,10
+"a0C00000000Dt37","Business.Gov-Small Business",7.18,0,0,0,"NA",0,0,0,1,1,0,109
+"a0C00000000DnxD","Intermec",7.24,0,0,0,"NA",0,1,0,1,1,1,64
+"a0C00000000E9pj","Robert Wood Johnson Foundation",6.77,0,0,0,"NA",0,0,0,1,0,0,20
+"a0C000000012Lbd","Tagged Help",4.58,1,0,0,"NA",0,1,0,1,5,0,68
+"a0C00000001W2Ed","Navis",4.03,1,0,0,"NA",0,1,0,1,9,1,94
+"a0C00000000Fl6C","Crucial - French",5.95,0,0,0,"NA",0,1,0,1,2,1,26
+"a0C00000000EAUt","Volusion",6.75,1,0,0,"NA",0,0,0,1,3,0,46
+"a0C00000000E88i","Quorum Community of Practice",6.83,0,0,0,"NA",0,0,0,1,2,0,10
+"a0C00000000Dg52","Scholastic Community",8,0,0,0,"NA",0,0,0,1,1,0,30
+"a0C00000000DkRB","Brightcove",7.49,1,0,0,"NA",0,0,0,1,4,0,66
+"a0C00000000DgBe","Qwest",8,0,0,0,"NA",0,0,0,1,1,0,11
+"a0C00000001Vhc7","PetCareRx",4.04,1,0,0,"NA",0,1,0,1,4,0,25
+"a0C00000000FqyJ","Jobvite, Inc.",5.92,1,0,0,"NA",0,1,0,1,3,0,36
+"a0C00000000DkQm","Plantronics",7.49,0,0,0,"NA",0,0,0,1,2,0,28
+"a0C00000000EAgG","Linksys Internal",6.74,0,0,0,"NA",0,1,0,1,0,0,65
+"a0C00000000EAgG","Linksys Internal",6.74,0,0,0,"NA",0,1,0,1,0,1,65
+"a0C00000000Dg57","SanDisk",8,0,0,0,"NA",0,1,0,1,5,0,8
+"a0C00000000FsSD","WorldApp",5.91,1,0,0,"NA",0,0,0,1,3,0,27
+"a0C00000000FuGS","Metastorm",5.91,1,0,0,"NA",0,1,0,1,6,0,107
+"a0C00000000uaXn","GolinHarris - McDonald's",4.68,1,0,0,"NA",0,1,0,1,3,0,43
+"a0C00000000FuHz","GE Appliances",5.91,0,0,0,"NA",1,0,0,1,2,0,54
+"a0C00000000UKiK","Second Life",5.35,1,0,0,"NA",0,1,0,1,5,1,140
+"a0C00000000Dg8p","Firing Squad",8,0,0,0,"NA",0,1,0,1,0,0,6
+"a0C00000000uU8J","Mercury - Agent",4.68,1,0,0,"NA",0,1,0,1,4,0,19
+"a0C00000000Fqy9","Water Pik",5.92,0,0,0,"NA",0,0,0,1,2,0,8
+"a0C00000000GOpJ","Semana - Revista Arcadia",5.74,0,0,0,"LATAM",0,0,0,2,3,0,65
+"a0C00000000DxuV","Zuora - Support",7.14,0,0,0,"NA",0,1,0,1,0,0,1
+"a0C00000000DgBZ","RNT User",8,0,0,0,"NA",0,0,0,1,1,0,11
+"a0C00000000Dg8f","Kodak Advisory Panel",8,0,0,0,"NA",0,0,0,3,0,0,12
+"a0C00000000E8vz","Intel Connect This!",6.81,0,0,0,"NA",0,0,0,1,1,0,15
+"a0C00000000Gg1d","Network For Good",5.65,0,0,0,"NA",0,1,0,1,3,1,82
+"a0C00000000FuHu","Navitor",5.91,1,0,0,"NA",0,0,0,1,3,0,64
+"a0C00000000Fwnu","ON24, Inc.",5.89,0,0,0,"NA",0,0,0,1,2,0,20
+"a0C00000000DkNT","Filemaker Support German",7.5,0,0,0,"NA",0,0,0,1,0,0,1
+"a0C00000000DkNU","Filemaker Support Japanese",7.5,0,0,0,"NA",0,0,0,1,0,0,1
+"a0C00000000DgBt","Filemaker International (Bento)",8,0,0,0,"NA",0,0,0,4,0,0,2
+"a0C00000000E8v6","AAA Arizona",6.81,0,0,0,"NA",0,0,0,1,0,0,3
+"a0C00000001tgWy","Zynga - ZDC POC",3.72,0,0,0,"NA",1,0,0,1,6,0,3
+"a0C000000019kg1","Avnet - Store",4.49,1,0,0,"NA",0,1,0,1,3,1,24
+"a0C00000000Dg8a","Paciolan",8,0,0,0,"NA",0,0,0,1,1,0,0
+"a0C00000000Dg8k","Ziff Davis",8,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000000DkLm","Filemaker Support French",7.5,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000000E8vu","AAA Michigan Savings Community",6.81,0,0,0,"NA",0,0,0,1,1,0,0
+"a0C00000000FqyE","MaxiScale, Inc.",5.92,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000002ubJq","Pure Storage",1.94,1,0,0,"NA",0,1,0,1,4,1,124
+"a0C00000000Dg8B","Logitech",8,0,0,0,"NA",0,1,0,2,4,1,225
+"a0C00000000DjmX","Fanfare Discussion Forums",7.58,0,0,0,"NA",0,0,0,1,1,0,25
+"a0C00000000DnIE","Safeway Inc. - Carrs",7.28,0,0,0,"NA",0,0,0,1,2,0,10
+"a0C00000000E5t3","LeapFrog",6.91,0,0,0,"NA",0,0,0,1,2,0,25
+"a0C00000000Dg7s","Luxury Link",8,1,0,0,"NA",0,0,0,1,1,0,9
+"a0C00000000DnII","Safeway Inc. - Vons",7.28,0,0,0,"NA",0,0,0,1,2,0,9
+"a0C00000000Djiz","Sage MAS",7.59,0,0,0,"NA",0,0,0,1,0,0,32
+"a0C00000000Dg7c","ForbesWoman Community",8,0,0,0,"NA",0,0,0,1,2,0,15
+"a0C00000000DnIH","Safeway Inc. - Pavilions",7.28,0,0,0,"NA",0,0,0,1,2,0,4
+"a0C00000000FWWk","Nimsoft",6.01,1,0,0,"NA",0,1,0,1,5,1,31
+"a0C00000000DjLC","Explorica",7.64,0,0,0,"NA",0,0,0,1,2,0,5
+"a0C00000000DnWp","CBOE Community",7.26,1,0,0,"NA",0,0,0,1,3,0,32
+"a0C00000000DnIF","Safeway Inc. - Dominicks",7.28,0,0,0,"NA",0,0,0,1,2,0,3
+"a0C00000000DjfC","Colbert",7.6,0,0,0,"NA",0,0,0,1,0,0,1
+"a0C00000000DnIJ","Safeway Inc. - Tom Thumb",7.28,0,0,0,"NA",0,0,0,1,2,0,1
+"a0C00000000DnIG","Safeway Inc. - Genuardis",7.28,0,0,0,"NA",0,0,0,1,2,0,2
+"a0C00000000Dg7h","GameInformer",8,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C00000000Djk2","Buffalo Technology VAR",7.59,1,0,0,"NA",0,0,0,1,2,0,0
+"a0C00000000Dg8L","Nokia Snap EU",8,1,0,0,"EMEA",0,0,0,1,1,0,0
+"a0C610000037S7p","Groupon LSW",0.23,0,0,0,"NA",0,0,0,1,0,0,0
+"a0C61000003AbGD","ReachOut Australia",0.09,1,0,0,"APAC",0,1,0,1,3,1,0
+"a0C610000037G90","Virgin Media Ireland LSW",0.24,0,0,0,"EMEA",0,0,0,1,0,0,0
+"a0C610000039irh","MuleSoft, Inc. LSW",0.12,0,0,0,"NA",0,0,0,1,0,1,0
